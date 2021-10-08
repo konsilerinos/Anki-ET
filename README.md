@@ -52,5 +52,4 @@ Zoo | [zuː] | Зоопарк
 
 ![изображение](https://user-images.githubusercontent.com/78896451/134548650-7918fa2c-eb07-43a8-9020-e6b7abedc90c.png)
 
-
-
+### ©️ Konsilerinos
