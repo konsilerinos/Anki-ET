@@ -15,4 +15,10 @@
 
 ## Интерфейс пользователя
 
+![image](https://user-images.githubusercontent.com/78896451/141315255-76e19c8b-9b4b-453e-be0d-153f4a4dc549.png)
+
+## Relase-версия
+
+Готовый к использованию продукт доступен [**здесь**](https://github.com/konsilerinos/English-anki-tool/blob/main/Release.rar)
+
 ### ©️ Konsilerinos
