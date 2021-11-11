@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1041</width>
+    <height>591</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1041</width>
+    <height>591</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1041</width>
+    <height>591</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Anki импорт</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QMainWindow#MainWindow {
+
+	background-color: #284B63;
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextEdit" name="leftTextBox">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>70</y>
+      <width>321</width>
+      <height>441</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit#leftTextBox {
+
+	font-size: 11pt;
+}</string>
+    </property>
+    <property name="documentTitle">
+     <string/>
+    </property>
+    <property name="overwriteMode">
+     <bool>false</bool>
+    </property>
+    <property name="placeholderText">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="text1">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#text1 {
+
+	background-color: #284B63;
+	color: #FFFFFF;
+}</string>
+    </property>
+    <property name="text">
+     <string>ВХОД</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="middleTextBox">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>70</y>
+      <width>321</width>
+      <height>441</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit#middleTextBox {
+
+	font-size: 11pt;
+}</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="text2">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>20</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#text2 {
+
+	background-color: #284B63;
+	color: #FFFFFF;
+}</string>
+    </property>
+    <property name="text">
+     <string>ТРАНСКРИПЦИЯ</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="rightTextBox">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>70</y>
+      <width>321</width>
+      <height>441</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit#rightTextBox {
+
+	font-size: 11pt;
+}</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="text3">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>20</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#text3 {
+
+	background-color: #284B63;
+	color: #FFFFFF;
+}</string>
+    </property>
+    <property name="text">
+     <string>ВЫХОД</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="leftButton">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>530</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton#leftButton {
+
+	background-color: #284B63;
+	color: #FFFFFF;
+	border: 5px solid #FFFFFF;
+}
+QPushButton#leftButton:hover {
+
+	background-color: #FFFFFF;
+	color: #1A3344;
+	border: 5px solid #1A3344;
+}
+QPushButton#leftButton:pressed {
+
+	background-color: #FFC300;
+	color: #1A3344;
+	border: 5px solid #1A3344;
+}
+QPushButton#leftButton:disabled {
+
+	background-color: #284B63;
+	color: #4B7089;
+	border: 5px solid #4B7089;
+}</string>
+    </property>
+    <property name="text">
+     <string>Запуск</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="middleButton">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>530</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton#middleButton {
+
+	background-color: #284B63;
+	color: #FFFFFF;
+	border: 5px solid #FFFFFF;
+}
+QPushButton#middleButton:hover {
+
+	background-color: #FFFFFF;
+	color: #1A3344;
+	border: 5px solid #1A3344;
+}
+QPushButton#middleButton:pressed {
+
+	background-color: #FFC300;
+	color: #1A3344;
+	border: 5px solid #1A3344;
+}
+QPushButton#middleButton:disabled {
+
+	background-color: #284B63;
+	color: #4B7089;
+	border: 5px solid #4B7089;
+}</string>
+    </property>
+    <property name="text">
+     <string>Запуск</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="helpButton">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>530</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton#helpButton {
+
+	background-color: #284B63;
+	color: #FFFFFF;
+	border: 5px solid #FFFFFF;
+}
+QPushButton#helpButton:hover {
+
+	background-color: #FFFFFF;
+	color: #1A3344;
+	border: 5px solid #1A3344;
+}
+QPushButton#helpButton:pressed {
+
+	background-color: #FFC300;
+	color: #1A3344;
+	border: 5px solid #1A3344;
+}</string>
+    </property>
+    <property name="text">
+     <string>Разработчик</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
