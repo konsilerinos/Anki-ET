@@ -5,8 +5,6 @@
 ### Архив с release-версией программы доступен [**здесь**](https://github.com/konsilerinos/Anki-tool/blob/main/Release.rar)
 ### Установщик программы доступен [**здесь**](https://github.com/konsilerinos/Anki-tool/blob/main/setup.exe)
 
-## Как пользоваться
-
 1. Ввести пары "Текст - перевод"
 2. Отобрать английские слова/предложения, с помощью [**сайта**](https://tophonetics.com/) получить транскипции
 3. Сохранить транскрипции в срединное окно
