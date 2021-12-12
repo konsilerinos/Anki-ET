@@ -202,7 +202,7 @@ public:
         text3->setText(QApplication::translate("MainWindow", "\320\222\320\253\320\245\320\236\320\224", nullptr));
         leftButton->setText(QApplication::translate("MainWindow", "\320\227\320\260\320\277\321\203\321\201\320\272", nullptr));
         middleButton->setText(QApplication::translate("MainWindow", "\320\227\320\260\320\277\321\203\321\201\320\272", nullptr));
-        helpButton->setText(QApplication::translate("MainWindow", "\320\240\320\260\320\267\321\200\320\260\320\261\320\276\321\202\321\207\320\270\320\272", nullptr));
+        helpButton->setText(QApplication::translate("MainWindow", "\320\233\320\270\321\206\320\265\320\275\320\267\320\270\321\217, \321\200\320\260\320\267\321\200\320\260\320\261\320\276\321\202\321\207\320\270\320\272", nullptr));
     } // retranslateUi
 
 };

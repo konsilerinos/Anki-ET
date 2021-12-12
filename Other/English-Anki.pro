@@ -22,7 +22,7 @@ FORMS += \
     mainwindow.ui
 
 VERSION = 1.2.1.1
-QMAKE_TARGET_COMPANY = Konsilerinos C
+QMAKE_TARGET_COMPANY = DKonsilerinos cmp
 QMAKE_TARGET_PRODUCT = Import tool for Anki
 QMAKE_TARGET_DESCRIPTION = Import Tool
 QMAKE_TARGET_COPYRIGHT = Konsilerinos

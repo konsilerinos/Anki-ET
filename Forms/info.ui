@@ -6,24 +6,24 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>801</width>
-    <height>361</height>
+    <width>851</width>
+    <height>551</height>
    </rect>
   </property>
   <property name="minimumSize">
    <size>
-    <width>0</width>
-    <height>0</height>
+    <width>851</width>
+    <height>551</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>99999</width>
-    <height>99999</height>
+    <width>851</width>
+    <height>551</height>
    </size>
   </property>
   <property name="windowTitle">
-   <string>Разработчик</string>
+   <string>Лицензия, разработчик</string>
   </property>
   <property name="styleSheet">
    <string notr="true">QDialog#Info {
@@ -34,15 +34,15 @@
   <widget class="QPushButton" name="exitButton">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>300</y>
-     <width>761</width>
+     <x>10</x>
+     <y>500</y>
+     <width>831</width>
      <height>41</height>
     </rect>
    </property>
    <property name="font">
     <font>
-     <pointsize>16</pointsize>
+     <pointsize>14</pointsize>
     </font>
    </property>
    <property name="styleSheet">
@@ -67,176 +67,30 @@ QPushButton#exitButton:pressed {
 </string>
    </property>
    <property name="text">
-    <string>Закрыть</string>
+    <string>Вернуться к программе</string>
    </property>
   </widget>
-  <widget class="QLabel" name="text1">
+  <widget class="QTextEdit" name="textBlock">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>20</y>
-     <width>301</width>
-     <height>41</height>
+     <x>10</x>
+     <y>10</y>
+     <width>831</width>
+     <height>481</height>
     </rect>
    </property>
    <property name="font">
     <font>
-     <pointsize>20</pointsize>
+     <pointsize>18</pointsize>
     </font>
    </property>
    <property name="styleSheet">
-    <string notr="true">QLabel#text1 {
+    <string notr="true">QTextEdit#textBlock {
 
 	background-color: #284B63;
 	color: #FFFFFF;
+	border: 0px solid #FFFFFF;
 }</string>
-   </property>
-   <property name="text">
-    <string>Разработчик</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="text2">
-   <property name="geometry">
-    <rect>
-     <x>20</x>
-     <y>70</y>
-     <width>301</width>
-     <height>31</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>16</pointsize>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">QLabel#text2 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-   </property>
-   <property name="text">
-    <string>Слесарев Николай Сергеевич</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="text3">
-   <property name="geometry">
-    <rect>
-     <x>20</x>
-     <y>200</y>
-     <width>301</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>20</pointsize>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">QLabel#text3 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-   </property>
-   <property name="text">
-    <string>Почта</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="text4">
-   <property name="geometry">
-    <rect>
-     <x>20</x>
-     <y>110</y>
-     <width>301</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>20</pointsize>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">QLabel#text4 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-   </property>
-   <property name="text">
-    <string>GitHub</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="text5">
-   <property name="geometry">
-    <rect>
-     <x>20</x>
-     <y>160</y>
-     <width>301</width>
-     <height>31</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>16</pointsize>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">QLabel#text5 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-   </property>
-   <property name="text">
-    <string>konsilerinos</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="text6">
-   <property name="geometry">
-    <rect>
-     <x>20</x>
-     <y>250</y>
-     <width>301</width>
-     <height>31</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>16</pointsize>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">QLabel#text6 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-   </property>
-   <property name="text">
-    <string>n_slesarev@mail.ru</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="image">
-   <property name="geometry">
-    <rect>
-     <x>340</x>
-     <y>20</y>
-     <width>441</width>
-     <height>261</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">QLabel#image {
-
-	background-image:url(:/Resources/Images/Logo.png) ;
-}</string>
-   </property>
-   <property name="text">
-    <string/>
    </property>
   </widget>
  </widget>

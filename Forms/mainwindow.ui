@@ -307,7 +307,7 @@ QPushButton#helpButton:pressed {
 }</string>
     </property>
     <property name="text">
-     <string>Разработчик</string>
+     <string>Лицензия, разработчик</string>
     </property>
    </widget>
   </widget>
