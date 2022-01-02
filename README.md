@@ -1,11 +1,9 @@
-# Anki-tool
-
-Настоящая версия программы не отвечает требованиям надёжности, ведётся работа над программным продуктом
+# Anki-ET
 
 Инструмент подготовки файла импорта для программы Anki, изучение англиского языка
 
-### Архив с release-версией программы доступен [**здесь**](https://github.com/konsilerinos/Anki-tool/blob/main/Release.rar)
-### Установщик программы доступен [**здесь**](https://github.com/konsilerinos/Anki-tool/blob/main/setup.exe)
+### Архив с release-версией программы доступен [**здесь**](https://github.com/konsilerinos/Anki-ET/blob/main/Release.rar)
+### Установщик программы доступен [**здесь**](https://github.com/konsilerinos/Anki-ET/blob/main/Setup.exe)
 
 1. Ввести пары "Текст - перевод"
 2. Отобрать английские слова/предложения, с помощью [**сайта**](https://tophonetics.com/) получить транскипции
@@ -21,6 +19,6 @@
 
 Эта программа распространяется в надежде, что она будет полезной, но без всяких гарантий, в том числе подразумеваемых гарантий товарного состояния при продаже и годности для определённого применения
 
-![image](https://user-images.githubusercontent.com/78896451/145709744-61d94833-56cc-4f69-b32c-076e0a0921de.png)
+![image](https://user-images.githubusercontent.com/78896451/147867971-2d24283e-86ee-45a2-802b-2c184d8db74b.png)
 
 ### ©️ Konsilerinos
