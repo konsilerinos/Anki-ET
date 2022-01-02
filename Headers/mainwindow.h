@@ -1,9 +1,8 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
+#include <QClipboard>
 #include <QMainWindow>
-#include <QStringList>
-#include <info.h>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -19,20 +18,26 @@ class MainWindow : public QMainWindow {
     ~MainWindow();
 
   private slots:
-    void on_leftButton_clicked();   // Нажата левая кнопка
-    void on_middleButton_clicked(); // Нажата средняя кнопка
-    void on_helpButton_clicked();   // Нажата правая кнопка
-
-    void on_leftTextBox_textChanged();   // Изменён текст левого блока
-    void on_middleTextBox_textChanged(); // Изменён текст среднего блока
-    void on_rightTextBox_textChanged();  // Изменён текст правого блока
+    void onInputButtonClicked();         // inputButton, нажатие
+    void onTranscriptionButtonClicked(); // transcriptionButton, нажатие
+    void onInfoButtonClicked();          // infoButton, нажатие
+    void onCtrlCButtonClicked();         // ctrlcButton, нажатие
+    void onClearButtonClicked();         // ckearButton, нажатие
 
   private:
-    Info info; // Информация о разработчике
+    Ui::MainWindow* ui; // Интерфейс пользователя
 
-    QStringList englishText;       // Английский
-    QStringList transcriptionText; // Транскрипция
-    QStringList russianText;       // Русский
-    Ui::MainWindow* ui;
+    // Выборка текста
+    void EnglishSelection();       // На английском
+    void RussianSelection();       // На русском
+    void TranscriptionSelection(); // Транскрипция
+
+    // Список
+    QStringList englishList;       // Английский
+    QStringList russianList;       // Русский
+    QStringList transcriptionList; // Транскрипция
+
+    void SetSignals();           // Установка соответствия для сигналов и слотов
+    void Debug(QString message); // Отладка, сохранение сообщения в лог
 };
 #endif // MAINWINDOW_H

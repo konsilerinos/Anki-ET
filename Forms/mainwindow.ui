@@ -7,307 +7,472 @@
     <x>0</x>
     <y>0</y>
     <width>1041</width>
-    <height>591</height>
+    <height>481</height>
    </rect>
   </property>
   <property name="minimumSize">
    <size>
     <width>1041</width>
-    <height>591</height>
+    <height>481</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
     <width>1041</width>
-    <height>591</height>
+    <height>481</height>
    </size>
   </property>
   <property name="windowTitle">
-   <string>Anki импорт</string>
-  </property>
-  <property name="styleSheet">
-   <string notr="true">QMainWindow#MainWindow {
-
-	background-color: #284B63;
-}</string>
+   <string>Anki-ET</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QTextEdit" name="leftTextBox">
+   <widget class="QLabel" name="inputLabel">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>70</y>
-      <width>321</width>
-      <height>441</height>
+      <x>260</x>
+      <y>10</y>
+      <width>251</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>171</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#inputLabel {
+
+	background-color: #F5CB5C;
+	border: 2px solid #242423;
+}</string>
+    </property>
+    <property name="text">
+     <string>Вход</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="transcriptionLabel">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>10</y>
+      <width>251</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>171</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#transcriptionLabel {
+
+	background-color: #F5CB5C;
+	border: 2px solid #242423;
+}</string>
+    </property>
+    <property name="text">
+     <string>Транскрипция</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="outputLabel">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>10</y>
+      <width>251</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>171</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#outputLabel {
+
+	background-color: #F5CB5C;
+	border: 2px solid #242423;
+}</string>
+    </property>
+    <property name="text">
+     <string>Выход</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="inputTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>60</y>
+      <width>251</width>
+      <height>331</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">QTextEdit#leftTextBox {
+     <string notr="true">QTextEdit#inputTextEdit {
 
-	font-size: 11pt;
+	border: 2px solid #333533;
 }</string>
     </property>
-    <property name="documentTitle">
+   </widget>
+   <widget class="QTextEdit" name="transcriptionTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>60</y>
+      <width>251</width>
+      <height>331</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit#transcriptionTextEdit {
+
+	border: 2px solid #333533;
+}</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="outputTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>60</y>
+      <width>251</width>
+      <height>331</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit#outputTextEdit {
+
+	border: 2px solid #333533;
+}</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="infoButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>260</y>
+      <width>241</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton#infoButton {
+
+	background-color: #284B63;
+	border: 2px solid #333533;
+	
+	background-image: url(:/Images/image.png);
+}
+
+</string>
+    </property>
+    <property name="text">
      <string/>
     </property>
-    <property name="overwriteMode">
-     <bool>false</bool>
-    </property>
-    <property name="placeholderText">
-     <string/>
-    </property>
    </widget>
-   <widget class="QLabel" name="text1">
-    <property name="geometry">
-     <rect>
-      <x>20</x>
-      <y>20</y>
-      <width>321</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>18</pointsize>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel#text1 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-    </property>
-    <property name="text">
-     <string>ВХОД</string>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="middleTextBox">
-    <property name="geometry">
-     <rect>
-      <x>360</x>
-      <y>70</y>
-      <width>321</width>
-      <height>441</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QTextEdit#middleTextBox {
-
-	font-size: 11pt;
-}</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="text2">
-    <property name="geometry">
-     <rect>
-      <x>360</x>
-      <y>20</y>
-      <width>321</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>18</pointsize>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel#text2 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-    </property>
-    <property name="text">
-     <string>ТРАНСКРИПЦИЯ</string>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="rightTextBox">
-    <property name="geometry">
-     <rect>
-      <x>700</x>
-      <y>70</y>
-      <width>321</width>
-      <height>441</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QTextEdit#rightTextBox {
-
-	font-size: 11pt;
-}</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="text3">
-    <property name="geometry">
-     <rect>
-      <x>700</x>
-      <y>20</y>
-      <width>321</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>18</pointsize>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel#text3 {
-
-	background-color: #284B63;
-	color: #FFFFFF;
-}</string>
-    </property>
-    <property name="text">
-     <string>ВЫХОД</string>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="leftButton">
+   <widget class="QPushButton" name="transcriptionButton">
     <property name="enabled">
-     <bool>false</bool>
+     <bool>true</bool>
     </property>
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>530</y>
-      <width>321</width>
+      <x>10</x>
+      <y>110</y>
+      <width>241</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>16</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton#leftButton {
+     <string notr="true">QPushButton#transcriptionButton {
 
 	background-color: #284B63;
+	border: 2px solid #333533;
 	color: #FFFFFF;
-	border: 5px solid #FFFFFF;
 }
-QPushButton#leftButton:hover {
+
+QPushButton#transcriptionButton:hover {
 
 	background-color: #FFFFFF;
-	color: #1A3344;
-	border: 5px solid #1A3344;
+	color: #333533;
 }
-QPushButton#leftButton:pressed {
 
-	background-color: #FFC300;
-	color: #1A3344;
-	border: 5px solid #1A3344;
+QPushButton#transcriptionButton:pressed {
+
+	background-color: #F5CB5C;
 }
-QPushButton#leftButton:disabled {
 
-	background-color: #284B63;
-	color: #4B7089;
-	border: 5px solid #4B7089;
-}</string>
+</string>
     </property>
     <property name="text">
-     <string>Запуск</string>
+     <string>En + Tr + Rus → En | Tr | Rus</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="middleButton">
+   <widget class="QPushButton" name="inputButton">
     <property name="enabled">
-     <bool>false</bool>
+     <bool>true</bool>
     </property>
     <property name="geometry">
      <rect>
-      <x>360</x>
-      <y>530</y>
-      <width>321</width>
+      <x>10</x>
+      <y>60</y>
+      <width>241</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>16</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton#middleButton {
+     <string notr="true">QPushButton#inputButton {
 
 	background-color: #284B63;
+	border: 2px solid #333533;
 	color: #FFFFFF;
-	border: 5px solid #FFFFFF;
 }
-QPushButton#middleButton:hover {
+
+QPushButton#inputButton:hover {
 
 	background-color: #FFFFFF;
-	color: #1A3344;
-	border: 5px solid #1A3344;
+	color: #333533;
 }
-QPushButton#middleButton:pressed {
 
-	background-color: #FFC300;
-	color: #1A3344;
-	border: 5px solid #1A3344;
-}
-QPushButton#middleButton:disabled {
+QPushButton#inputButton:pressed {
 
-	background-color: #284B63;
-	color: #4B7089;
-	border: 5px solid #4B7089;
+	background-color: #F5CB5C;
 }</string>
     </property>
     <property name="text">
-     <string>Запуск</string>
+     <string>Rus + En → En</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="helpButton">
+   <widget class="QLabel" name="instructionLabel">
     <property name="geometry">
      <rect>
-      <x>700</x>
-      <y>530</y>
-      <width>321</width>
+      <x>10</x>
+      <y>10</y>
+      <width>241</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>171</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#instructionLabel {
+
+	background-color: #F5CB5C;
+	border: 2px solid #242423;
+}</string>
+    </property>
+    <property name="text">
+     <string>Инструкции</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="ctrlcButton">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>160</y>
+      <width>241</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>16</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton#helpButton {
+     <string notr="true">QPushButton#ctrlcButton {
 
 	background-color: #284B63;
+	border: 2px solid #333533;
 	color: #FFFFFF;
-	border: 5px solid #FFFFFF;
 }
-QPushButton#helpButton:hover {
+
+QPushButton#ctrlcButton:hover {
 
 	background-color: #FFFFFF;
-	color: #1A3344;
-	border: 5px solid #1A3344;
+	color: #333533;
 }
-QPushButton#helpButton:pressed {
 
-	background-color: #FFC300;
-	color: #1A3344;
-	border: 5px solid #1A3344;
+QPushButton#ctrlcButton:pressed {
+
+	background-color: #F5CB5C;
+}
+
+</string>
+    </property>
+    <property name="text">
+     <string>Ctrl+C по полю &quot;Выход&quot;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="logLabel">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>400</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>171</width>
+      <height>41</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel#logLabel {
+
+	background-color: #F5CB5C;
+	border: 2px solid #242423;
 }</string>
     </property>
     <property name="text">
-     <string>Лицензия, разработчик</string>
+     <string>Лог</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="logTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>400</y>
+      <width>771</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit#logTextEdit {
+
+	border: 2px solid #333533;
+}</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="clearButton">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>210</y>
+      <width>241</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton#clearButton {
+
+	background-color: #284B63;
+	border: 2px solid #333533;
+	color: #FFFFFF;
+}
+
+QPushButton#clearButton:hover {
+
+	background-color: #FFFFFF;
+	color: #333533;
+}
+
+QPushButton#clearButton:pressed {
+
+	background-color: #F5CB5C;
+}
+
+</string>
+    </property>
+    <property name="text">
+     <string>Очистка полей</string>
     </property>
    </widget>
   </widget>

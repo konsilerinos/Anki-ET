@@ -9,30 +9,27 @@ CONFIG += c++11
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    info.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
-    info.h \
     mainwindow.h
 
 FORMS += \
-    info.ui \
     mainwindow.ui
-
-VERSION = 1.2.1.1
-QMAKE_TARGET_COMPANY = DKonsilerinos cmp
-QMAKE_TARGET_PRODUCT = Import tool for Anki
-QMAKE_TARGET_DESCRIPTION = Import Tool
-QMAKE_TARGET_COPYRIGHT = Konsilerinos
-
-RC_ICONS = Resources/Icon/Icon.ico
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+VERSION = 1.2.1.1
+QMAKE_TARGET_COMPANY = DKonsilerinos cmp
+QMAKE_TARGET_PRODUCT = Anki-ET
+QMAKE_TARGET_DESCRIPTION = Anki english tool, import
+QMAKE_TARGET_COPYRIGHT = Konsilerinos
+
+RC_ICONS = Images/Icon.ico
 
 RESOURCES += \
     Res.qrc

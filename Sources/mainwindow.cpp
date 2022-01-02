@@ -1,126 +1,213 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include <QDebug>
 
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWindow) {
 
-    ui->setupUi(this);
+    ui->setupUi(this); // Интерфейс пользователя
 
-    // Установка горизонтальное прокрутки до востребованности
-    ui->leftTextBox->setLineWrapMode(QTextEdit::NoWrap);
-    ui->middleTextBox->setLineWrapMode(QTextEdit::NoWrap);
-    ui->rightTextBox->setLineWrapMode(QTextEdit::NoWrap);
+    SetSignals(); // Установка соответствия для сигналов и слотов
 
-    // Прототип для левого блока текста
-    QString placeholderLeftText = "1. Введите пары \"Текст - перевод\". Например:\n";
-    placeholderLeftText += "Understand\nПонимать\n\nUnderground\nМетро\n\nDepend\nЗависеть (без предлога)\n\nAttract\nПривлекать";
-    // Прототип для среднего блока текста
-    QString placeholderMiddleText = "3. Введите транскрипции. Например:\n[ˌʌndəˈstænd]\n[ˈʌndəgraʊnd]\n[dɪˈpɛnd]\n[əˈtrækt]";
-    // Прототип для правого блока текста
-    QString placeholdRightText = "2. Отбор англиских слов/предложений:\nUnderstand\nUnderground\nDepend\nAttract\n\n";
-    placeholdRightText += "4. Результат:\nUnderstand | [ˌʌndəˈstænd] | Понимать\nUnderground | [ˈʌndəgraʊnd] | Метро\n";
-    placeholdRightText += "Depend | [dɪˈpɛnd] | Зависеть (без предлога)\nAttract | [əˈtrækt] | Привлекать";
+    // Сохранение поясняющих сообщений
 
-    // Установка прототипов для блоков текста
-    ui->leftTextBox->setPlaceholderText(placeholderLeftText);
-    ui->middleTextBox->setPlaceholderText(placeholderMiddleText);
-    ui->rightTextBox->setPlaceholderText(placeholdRightText);
+    ui->inputTextEdit->setPlaceholderText("English1\nRussian1\n\nEnglish2\nRussian2\n\nEnglish3\nRussian4");         // inputTextEdit
+    ui->transcriptionTextEdit->setPlaceholderText("[ˈɪŋglɪʃ] 1\n[ˈɪŋglɪʃ] 2\n[ˈɪŋglɪʃ] 3");                          // transcriptionTextEdit
+    ui->outputTextEdit->setPlaceholderText("English1\nEnglish2\nEnglish3\n\nEnglish1 | [ˈɪŋglɪʃ] 1 | Russian1 etc"); // outputTextEdit
+
+    ui->logTextEdit->setText("Debug(), Anki-ET\n"); // Заголовок для лога
+    ui->logTextEdit->setReadOnly(true);             // Заблокировать редактирование
 }
 
-MainWindow::~MainWindow() { delete ui; }
+MainWindow::~MainWindow() {
 
-/**
- * @brief Вход, подать английский текст на выход
- */
-void MainWindow::on_leftButton_clicked() {
-
-    // Сохранение входа в строку str
-    QString str = ui->leftTextBox->toPlainText();
-
-    // Разбиение текста str на строки
-    QStringList inputList = str.split('\n');
-
-    // Результирующая строка
-    QString result = "";
-
-    // Сохранение русских слов
-    for (int i = 1; i < inputList.size(); i += 3) {
-
-        russianText.append(inputList[i]);
-    }
-
-    // Сохранение английских слов
-    for (int i = 0; i < inputList.size(); i += 3) {
-
-        englishText.append(inputList[i]);
-        result += inputList[i] + "\n";
-    }
-
-    // Подать английский текст на выход
-    ui->rightTextBox->setText(result);
+    delete ui; // Интерфейс пользователя
 }
 
-/**
- * @brief Объединить вход с транскрипцией, результат на выход
- */
-void MainWindow::on_middleButton_clicked() {
+// inputButton, нажатие
+void MainWindow::onInputButtonClicked() {
 
-    // Сохранение транскрипции в строку str
-    QString str = ui->middleTextBox->toPlainText();
+    // Выборка текста
+    EnglishSelection(); // На английском
+    RussianSelection(); // На русском
 
-    // Разбиение строки str на строки
-    transcriptionText = str.split('\n');
+    if (englishList.size() != russianList.size()) {
 
-    QString result = "";
+        Debug("Ошибка: число строк в английском и русском списках различно");
+        return;
+    } else if (englishList.size() == 0) {
 
-    // Сохранение результата
-    for (int i = 0; i < englishText.size(); i++) {
+        Debug("Ошибка: английский список пустой");
+        return;
+    } else if (russianList.size() == 0) {
 
-        result = result + englishText[i] + " | " + transcriptionText[i] + " | " + russianText[i] + "\n";
+        Debug("Ошибка: русский список пустой");
+        return;
     }
 
-    // Подать результат на выход
-    ui->rightTextBox->setText(result);
-}
+    // Сохранение английского текста в outputTextEdit
 
-// Изменён текст левого блока
-void MainWindow::on_leftTextBox_textChanged() {
+    QString englishText = ""; // Текст для записи в outputTextEdit
 
-    // Блокировать, если ничего не введено
-    if (ui->leftTextBox->toPlainText().isEmpty()) {
+    // Формирование строки для записи в outputTextEdit
+    for (int i = 0; i < englishList.size(); i++) {
 
-        ui->leftButton->setDisabled(true);
-    } else {
-
-        ui->leftButton->setDisabled(false);
+        englishText = englishText + englishList.at(i) + "\n";
     }
+
+    englishText.chop(1);                      // Удаление символа '\n' с конца
+    ui->outputTextEdit->setText(englishText); // Сохранение строки в outputTextEdit
 }
 
-void MainWindow::on_middleTextBox_textChanged() {
+// transcriptionButton, нажатие
+void MainWindow::onTranscriptionButtonClicked() {
 
-    // Блокировать, если ничего не введено
-    if (ui->middleTextBox->toPlainText().isEmpty()) {
+    transcriptionList.clear(); // Очистка transcriptionList
 
-        ui->middleButton->setDisabled(true);
-    } else if (ui->leftButton->isEnabled()) {
+    TranscriptionSelection(); // Выборка для транскрипции
 
-        // Блокировка, если строк разное количество
-        if (ui->middleTextBox->toPlainText().split('\n').size() != russianText.size()) {
+    if ((russianList.size() == 0) || (englishList.size() == 0) || (transcriptionList.size() == 0)) {
 
-            return;
+        Debug("Ошибка: один из списков пустой");
+        return;
+    }
+
+    // Сохранение результата в outputTextEdit
+    if ((russianList.size() == transcriptionList.size()) && (transcriptionList.size() == englishList.size())) {
+
+        QString result = ""; // Строка результата, записывается в файл импорта
+
+        for (int i = 0; i < russianList.size(); i++) {
+
+            result = result + englishList.at(i) + " | " + transcriptionList.at(i) + " | " + russianList.at(i) + "\n"; // Запись в результат
         }
 
-        // Снять блокировку
-        ui->middleButton->setDisabled(false);
+        result.chop(1); // Удаление символа '\n' с конца строки
+
+        // Схранение результата в outputTextEdit
+        ui->outputTextEdit->setText(result);
+    } else {
+
+        Debug("ошибка: длины списков для транскрипции и английского текста разные");
+    }
+
+    // Очистка списков
+    englishList.clear();
+    transcriptionList.clear();
+    russianList.clear();
+}
+
+// infoButton, нажатие
+void MainWindow::onInfoButtonClicked() {
+
+    ui->inputTextEdit->setText("Разработчик:\nСлесарев Николай Сергеевич");
+    ui->transcriptionTextEdit->setText("Почта:\nn_slesarev@mail.ru");
+    ui->outputTextEdit->setText("GitHub:\nkonsilerinos");
+}
+
+// ctrlcButton, нажатие
+void MainWindow::onCtrlCButtonClicked() {
+
+    // Сохранение текста из outputTextEdit в буфер обмена
+    QApplication::clipboard()->setText(ui->outputTextEdit->toPlainText());
+
+    Debug("Выход сохранён в буфер обмена");
+}
+
+// ckearButton, нажатие
+void MainWindow::onClearButtonClicked() {
+
+    // Очистка полей
+    ui->inputTextEdit->setText("");         // inputTextEdit
+    ui->transcriptionTextEdit->setText(""); // transcriptionTextEdit
+    ui->outputTextEdit->setText("");        // outputTextEdit
+}
+
+// Выборка текста, английский
+void MainWindow::EnglishSelection() {
+
+    englishList.clear(); // Очистка englishList
+
+    // Сохранение текста из inputTextEdit в strList
+    QStringList text = ui->inputTextEdit->toPlainText().split('\n');
+
+    // Выборка текста на английском
+    for (int i = 0; i < text.length(); i++) {
+
+        if (text.at(i) == "") {
+
+            continue; // Продолжение в случае пустой строки
+        }
+
+        QChar s = text.at(i).at(0); // Первый символ строки
+
+        if ((s >= 'A') && (s <= 'Z') || (s >= 'a') && (s <= 'z')) {
+
+            // Строка начинается на символ английского афлавита
+            englishList.append(text.at(i));
+        }
     }
 }
 
-// Блокировать среднюю кнопку, если изменён текст в правом блоке
-void MainWindow::on_rightTextBox_textChanged() { ui->middleButton->setDisabled(true); }
+// Выборка текста, русский
+void MainWindow::RussianSelection() {
 
-// Показать информацию о разработчике
-void MainWindow::on_helpButton_clicked() {
+    russianList.clear(); // Очистка russianList
 
-    info.setModal(true);
-    info.show();
+    // Сохранение текста из inputTextEdit в strList
+    QStringList text = ui->inputTextEdit->toPlainText().split('\n');
+
+    // Выборка текста на русском
+    for (int i = 0; i < text.length(); i++) {
+
+        if (text.at(i) == "") {
+
+            continue; // Продолжение в случае пустой строки
+        }
+
+        QChar s = text.at(i).at(0); // Первый символ строки
+
+        if ((s >= 'A') && (s <= 'Z') || (s >= 'a') && (s <= 'z')) {
+
+            continue; // Строка начинается на символ английского алфавита, пропуск
+        }
+
+        russianList.append(text.at(i));
+    }
+}
+
+// Выборка текста, транскипция
+void MainWindow::TranscriptionSelection() {
+
+    transcriptionList.clear(); // Очистка transcriptionList
+
+    // Сохранение текста из transcriptionTextEdit в strList
+    QStringList text = ui->transcriptionTextEdit->toPlainText().split('\n');
+
+    // Выборка транскрипции
+    for (int i = 0; i < text.length(); i++) {
+
+        if (text.at(i) == "") {
+
+            continue; // Продолжение в случае пустой строки
+        }
+
+        transcriptionList.append(text.at(i));
+    }
+}
+
+// Установка соответствия для сигналов и слотов
+void MainWindow::SetSignals() {
+
+    // Нажатие
+    connect(ui->inputButton, SIGNAL(clicked()), this, SLOT(onInputButtonClicked()));                 // inputButton
+    connect(ui->transcriptionButton, SIGNAL(clicked()), this, SLOT(onTranscriptionButtonClicked())); // transcriptionButton
+    connect(ui->infoButton, SIGNAL(clicked()), this, SLOT(onInfoButtonClicked()));                   // infoButton
+    connect(ui->ctrlcButton, SIGNAL(clicked()), this, SLOT(onCtrlCButtonClicked()));                 // ctrlcButton
+    connect(ui->clearButton, SIGNAL(clicked()), this, SLOT(onClearButtonClicked()));                 // clearButton
+}
+
+// Отладка, сохранение сообщения в лог
+void MainWindow::Debug(QString message) {
+
+    ui->logTextEdit->setText(ui->logTextEdit->toPlainText() + "\n" + message); // Сохранение сообщения в лог
+    ui->logTextEdit->moveCursor(QTextCursor::End);                             // Прокрутка блока текста с логом вниз
 }
