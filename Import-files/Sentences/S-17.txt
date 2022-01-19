@@ -1,0 +1,30 @@
+This result depends on you | [ðɪs] [rɪˈzʌlt] [dɪˈpɛndz] [ɒn] [juː] | Этот результат зависит от тебя
+This results doesn't depend on you | [ðɪs] [rɪˈzʌlts] [dʌznt] [dɪˈpɛnd] [ɒn] [juː] | Этот результат не зависит от тебя
+Does this result depend on you? | [dʌz] [ðɪs] [rɪˈzʌlt] [dɪˈpɛnd] [ɒn] [juː]? | Этот результат зависит от тебя?
+This exercise seems too easy | [ðɪs] [ˈɛksəsaɪz] [siːmz] [tuː] [ˈiːzi] | Это упражнение кажется слишком лёгким
+This exercise doesn't seem too easy | [ðɪs] [ˈɛksəsaɪz] [dʌznt] [siːm] [tuː] [ˈiːzi] | Это упражнение не кажется слишком лёгким
+Does this exercise seem too easy? | [dʌz] [ðɪs] [ˈɛksəsaɪz] [siːm] [tuː] [ˈiːzi]? | Это упражнение кажется слишком лёгким?
+My father believes in God | [maɪ] [ˈfɑːðə] [bɪˈliːvz] [ɪn] [gɒd] | Мой папа верит в бога
+My father doesn't believe in God | [maɪ] [ˈfɑːðə] [dʌznt] [bɪˈliːv] [ɪn] [gɒd] | Мой папа не верит в бога
+Does your father believe in God? | [dʌz] [jɔː] [ˈfɑːðə] [bɪˈliːv] [ɪn] [gɒd]? | Твой папа верит в бога?
+Our boss controls the situation | [ˈaʊə] [bɒs] [kənˈtrəʊlz] [ðə] [ˌsɪtjʊˈeɪʃən] | Наш босс контролирует ситуацию
+Our boss doesn't control the situation | [ˈaʊə] [bɒs] [dʌznt] [kənˈtrəʊl] [ðə] [ˌsɪtjʊˈeɪʃən] | Наш босс не контролирует ситуацию
+Does our boss control the situation? | [dʌz] [ˈaʊə] [bɒs] [kənˈtrəʊl] [ðə] [ˌsɪtjʊˈeɪʃən]? | Наш босс контролирует ситуацию?
+This person needs our help | [ðɪs] [ˈpɜːsn] [niːdz] [ˈaʊə] [hɛlp] | Этому человеку нужна наша помощь
+This person doesn't need our help | [ðɪs] [ˈpɜːsn] [dʌznt] [niːd] [ˈaʊə] [hɛlp] | Этому человеку не нужна наша помощь
+Does this person need our help? | [dʌz] [ðɪs] [ˈpɜːsn] [niːd] [ˈaʊə] [hɛlp]? | Этому человеку нежна наша помощь?
+His teacher corrects all his mistakes | [hɪz] [ˈtiːʧə] [kəˈrɛkts] [ɔːl] [hɪz] [mɪsˈteɪks] | Его учитель исправляет все его ошибки
+His teacher doesn't correct all his mistakes | [hɪz] [ˈtiːʧə] [dʌznt] [kəˈrɛkt] [ɔːl] [hɪz] [mɪsˈteɪks] | Его учитель не исправляет все его ошибки
+Does his teacher correct all his mistakes? | [dʌz] [hɪz] [ˈtiːʧə] [kəˈrɛkt] [ɔːl] [hɪz] [mɪsˈteɪks]? | Его учитель исправляет все его ошибки?
+Those lessons seem useless | [ðəʊz] [ˈlɛsnz] [siːm] [ˈjuːslɪs] | Те уроки кажутся бесполезными
+Those lessons don't seem useless | [ðəʊz] [ˈlɛsnz] [dəʊnt] [siːm] [ˈjuːslɪs] | Те уроки не кажутся бесполезными
+Do those lessons seem useless? | [duː] [ðəʊz] [ˈlɛsnz] [siːm] [ˈjuːslɪs]? | Те уроки кажутся бесполезными?
+This information seems useful | [ðɪs] [ˌɪnfəˈmeɪʃən] [siːmz] [ˈjuːsfʊl] | Эта информация кажется полезной
+Does this information seem useful? | [dʌz] [ðɪs] [ˌɪnfəˈmeɪʃən] [siːm] [ˈjuːsfʊl]? | Эта информация кажется полезной?
+This information doesn't seem useful | [ðɪs] [ˌɪnfəˈmeɪʃən] [dʌznt] [siːm] [ˈjuːsfʊl] | Эта информация не кажется полезной
+My friends support me | [maɪ] [frɛndz] [səˈpɔːt] [miː] | Мои друзья поддерживают меня
+My friends don't support me | [maɪ] [frɛndz] [dəʊnt] [səˈpɔːt] [miː] | Мои друзья не поддерживают меня
+Do my friends support me? | [duː] [maɪ] [frɛndz] [səˈpɔːt] [miː]? | Мои друзья поддерживают меня?
+My friend likes it | [maɪ] [frɛnd] [laɪks] [ɪt] | Моему другу нравится это
+My friend doesn't like it | [maɪ] [frɛnd] [dʌznt] [laɪk] [ɪt] | Моему другу не нравится это
+Does my friend like it? | [dʌz] [maɪ] [frɛnd] [laɪk] [ɪt]? | Моему другу нравится это?
