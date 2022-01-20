@@ -1,3 +1,42 @@
+How regularly do you learn English? | [haʊ] [ˈrɛgjʊləli] [duː] [juː] [lɜːn] [ˈɪŋglɪʃ]? | Как регулярно ты занимаешься английским?
+How often do you go there? | [haʊ] [ˈɒf(ə)n] [duː] [juː] [gəʊ] [ðeə]? | Как часто ты ходишь туда?
+How often do you go to the gym? | [haʊ] [ˈɒf(ə)n] [duː] [juː] [gəʊ] [tuː] [ðə] [ʤɪm]? | Как часто ты ходишь в спортзал?
+How many friends do you have? | [haʊ] [ˈmɛni] [frɛndz] [duː] [juː] [hæv]? | Сколько у тебя друзей?
+How much money do you have with you? | [haʊ] [mʌʧ] [ˈmʌni] [duː] [juː] [hæv] [wɪð] [juː]? | Сколько у тебя денег с собой?
+What time do you go to to bed? | [wɒt] [taɪm] [duː] [juː] [gəʊ] [tuː] [tuː] [bɛd]? | В какое время ты ложишься спать?
+What time do you get up? | [wɒt] [taɪm] [duː] [juː] [gɛt] [ʌp]? | В какое время ты встаёшь?
+What kind of computer games do they play? | [wɒt] [kaɪnd] [ɒv] [kəmˈpjuːtə] [geɪmz] [duː] [ðeɪ] [pleɪ]? | В какого рода компьютерные игры они играют?
+What kind of books do you read? | [wɒt] [kaɪnd] [ɒv] [bʊks] [duː] [juː] [riːd]? | Какого рода книги ты читаешь?
+What music do you prefer? | [wɒt] [ˈmjuːzɪk] [duː] [juː] [priˈfɜː]? | Какую музыку ты предпочитаешь?
+What English books do you read? | [wɒt] [ˈɪŋglɪʃ] [bʊks] [duː] [juː] [riːd]? | Какие английские книги ты читаешь?
+What books do you read? | [wɒt] [bʊks] [duː] [juː] [riːd]? | Какие книги ты читаешь?
+Who do you support? | [huː] [duː] [juː] [səˈpɔːt]? | Кого ты поддерживаешь?
+Who supports you? | [huː] [səˈpɔːts] [juː]? | Кто поддерживает тебя?
+Who knows it? | [huː] [nəʊz] [ɪt]? | Кто знает это?
+Who do you know? | [huː] [duː] [juː] [nəʊ]? | Кого ты знаешь?
+What looks strange? | [wɒt] [lʊks] [streɪnʤ]? | Что кажется странным?
+What really helps you? | [wɒt] [ˈrɪəli] [hɛlps] [juː]? | Что действительно тебе помогает?
+What do they want to tell you? | [wɒt] [duː] [ðeɪ] [wɒnt] [tuː] [tɛl] [juː]? | Что они хотят тебе сказать?
+What helps you? | [wɒt] [hɛlps] [juː]? | Что помогает тебе?
+What seems strange? | [wɒt] [siːmz] [streɪnʤ]? | Что кажется странным?
+What do you want to say? | [wɒt] [duː] [juː] [wɒnt] [tuː] [seɪ]? | Что ты хочешь сказать?
+When do you have a free time? | [wɛn] [duː] [juː] [hæv] [ə] [friː] [taɪm]? | Когда у тебя есть свободное время?
+When do you feel happy? | [wɛn] [duː] [juː] [fiːl] [ˈhæpi]? | Когда ты чувствуешь себя счастливой?
+When do you go to work? | [wɛn] [duː] [juː] [gəʊ] [tuː] [wɜːk]? | Когда ты ходишь на работу?
+How do you get there? | [haʊ] [duː] [juː] [gɛt] [ðeə]? | Как ты добираешься до туда?
+How do you get to work? | [haʊ] [duː] [juː] [gɛt] [tuː] [wɜːk]? | Как ты добираешься до работы?
+How do you find this idea? | [haʊ] [duː] [juː] [faɪnd] [ðɪs] [aɪˈdɪə]? | Как ты находишь эту идею?
+What do you want to do? | [wɒt] [duː] [juː] [wɒnt] [tuː] [duː]? | Что ты хочешь сделать?
+What do you need to do? | [wɒt] [duː] [juː] [niːd] [tuː] [duː]? | Что тебе нужно сделать?
+What do you know? | [wɒt] [duː] [juː] [nəʊ]? | Что ты знаешь?
+What do you think about it? | [wɒt] [duː] [juː] [θɪŋk] [əˈbaʊt] [ɪt]? | Что ты думаешь об этом?
+Why do you learn English? | [waɪ] [duː] [juː] [lɜːn] [ˈɪŋglɪʃ]? | Почему ты изучаешь английский?
+Why do you agree with him? | [waɪ] [duː] [juː] [əˈgriː] [wɪð] [hɪm]? | Почему ты согласен с ним?
+Why do you think so? | [waɪ] [duː] [juː] [θɪŋk] [səʊ]? | Почему ты думаешь так?
+Where do they spend time together? | [weə] [duː] [ðeɪ] [spɛnd] [taɪm] [təˈgɛðə]? | Где они проводят время вместе?
+Where do you go? | [weə] [duː] [juː] [gəʊ]? | Куда ты идёшь?
+Where do you work? | [weə] [duː] [juː] [wɜːk]? | Где ты работаешь?
+Where do you live? | [weə] [duː] [juː] [lɪv]? | Где ты живёшь?
 This result depends on you | [ðɪs] [rɪˈzʌlt] [dɪˈpɛndz] [ɒn] [juː] | Этот результат зависит от тебя
 This results doesn't depend on you | [ðɪs] [rɪˈzʌlts] [dʌznt] [dɪˈpɛnd] [ɒn] [juː] | Этот результат не зависит от тебя
 Does this result depend on you? | [dʌz] [ðɪs] [rɪˈzʌlt] [dɪˈpɛnd] [ɒn] [juː]? | Этот результат зависит от тебя?
