@@ -1,3 +1,48 @@
+What do you do? | [wɒt] [duː] [juː] [duː]? | Что ты делаешь?
+How long does it take him to get to this place? | [haʊ] [lɒŋ] [dʌz] [ɪt] [teɪk] [hɪm] [tuː] [gɛt] [tuː] [ðɪs] [pleɪs]? | Как долго у него занимает добраться до этого места?
+How long does it take you to get to work? | [haʊ] [lɒŋ] [dʌz] [ɪt] [teɪk] [juː] [tuː] [gɛt] [tuː] [wɜːk]? | Как долго у тебя занимает добраться до работы?
+How regularly does he do these exercises? | [haʊ] [ˈrɛgjʊləli] [dʌz] [hiː] [duː] [ðiːz] [ˈɛksəsaɪzɪz]? | Как регулярно он делает эти упражнения?
+How often does he go to the zoo? | [haʊ] [ˈɒf(ə)n] [dʌz] [hiː] [gəʊ] [tuː] [ðə] [zuː]? | Как часто он ходит в зоопарк?
+How often do you go to the cinema? | [haʊ] [ˈɒf(ə)n] [duː] [juː] [gəʊ] [tuː] [ðə] [ˈsɪnəmə]? | Как часто ты ходишь в кино?
+How many dollars does he have? | [haʊ] [ˈmɛni] [ˈdɒləz] [dʌz] [hiː] [hæv]? | Сколько денег у него есть?
+How much money does she pay? | [haʊ] [mʌʧ] [ˈmʌni] [dʌz] [ʃiː] [peɪ]? | Сколько денег она платит?
+What time does she leave home? | [wɒt] [taɪm] [dʌz] [ʃiː] [liːv] [həʊm]? | В какое время она уходит из дома?
+What time does he come to work? | [wɒt] [taɪm] [dʌz] [hiː] [kʌm] [tuː] [wɜːk]? | В какое время он приходит на работу?
+Which drink does she prefer: tea or coffee? | [wɪʧ] [drɪŋk] [dʌz] [ʃiː] [priˈfɜː]: [tiː] [ɔː] [ˈkɒfi]? | Какой напиток она предпочитает: чай или кофе?
+What books do you prefer to read? | [wɒt] [bʊks] [duː] [juː] [priˈfɜː] [tuː] [riːd]? | Какие книги ты предпочитаешь читать?
+Which channel do you usually watch? | [wɪʧ] [ˈʧænl] [duː] [juː] [ˈjuːʒʊəli] [wɒʧ]? | Какой канал ты обычно смотришь?
+She watches different movies | [ʃiː] [ˈwɒʧɪz] [ˈdɪfrənt] [ˈmuːviz] | Она смотрит различные фильмы
+What kind of movies does she watch? | [wɒt] [kaɪnd] [ɒv] [ˈmuːviz] [dʌz] [ʃiː] [wɒʧ]? | Какие фильмы она смотрит?
+What channels does he watch? | [wɒt] [ˈʧænlz] [dʌz] [hiː] [wɒʧ]? | Какие каналы он смотрит?
+What English books do you have? | [wɒt] [ˈɪŋglɪʃ] [bʊks] [duː] [juː] [hæv]? | Какие английские книги у тебя есть?
+Who does he support? | [huː] [dʌz] [hiː] [səˈpɔːt]? | Кого он поддерживает?
+Who supports you? | [huː] [səˈpɔːts] [juː]? | Кто поддерживает тебя?
+Who loves her? | [huː] [lʌvz] [hɜː]? | Кто любит её?
+Who does she love? | [huː] [dʌz] [ʃiː] [lʌv]? | Кого она любит?
+Who motivates you? | [huː] [ˈməʊtɪveɪts] [juː]? | Кто мотивирует тебя?
+Who does it motivate? | [huː] [dʌz] [ɪt] [ˈməʊtɪveɪt]? | Кого это мотивирует?
+What worries you? | [wɒt] [ˈwʌriz] [juː]? | Что беспокоит тебя?
+What interests you? | [wɒt] [ˈɪntrɪsts] [juː]? | Что интересует тебя?
+What helps you? | [wɒt] [hɛlps] [juː]? | Что помогает тебе?
+What does he want to add? | [wɒt] [dʌz] [hiː] [wɒnt] [tuː] [æd]? | Что он хочет добавить?
+What does he remember? | [wɒt] [dʌz] [hiː] [rɪˈmɛmbə]? | Что он помнит?
+Where does he feel happy? | [weə] [dʌz] [hiː] [fiːl] [ˈhæpi]? | Когда он чувствует себя счастливым?
+When does it happen? | [wɛn] [dʌz] [ɪt] [ˈhæpən]? | Когда это происходит?
+How does he support you? | [haʊ] [dʌz] [hiː] [səˈpɔːt] [juː]? | Как он поддерживает тебя?
+How does it help you? | [haʊ] [dʌz] [ɪt] [hɛlp] [juː]? | Как это помогает тебе?
+How does she test their knowledge? | [haʊ] [dʌz] [ʃiː] [tɛst] [ðeə] [ˈnɒlɪʤ]? | Как она тестирует их знания?
+What does he need to change? | [wɒt] [dʌz] [hiː] [niːd] [tuː] [ʧeɪnʤ]? | Что ему нужно изменить?
+What does she try to do? | [wɒt] [dʌz] [ʃiː] [traɪ] [tuː] [duː]? | Что она пытается делать?
+What does he want to add? | [wɒt] [dʌz] [hiː] [wɒnt] [tuː] [æd]? | Что он хочет добавить?
+What does she tell him? | [wɒt] [dʌz] [ʃiː] [tɛl] [hɪm]? | Что она говорит ему?
+What does she say? | [wɒt] [dʌz] [ʃiː] [seɪ]? | Что она говорит?
+Why does it happen again and again? | [waɪ] [dʌz] [ɪt] [ˈhæpən] [əˈgɛn] [ænd] [əˈgɛn]? | Почему это происходит снова и снова?
+Why does she refuse to pay? | [waɪ] [dʌz] [ʃiː] [ˌriːˈfjuːz] [tuː] [peɪ]? | Почему она отказывается платить?
+Why does he complain so often? | [waɪ] [dʌz] [hiː] [kəmˈpleɪn] [səʊ] [ˈɒf(ə)n]? | Почему он жалуется так часто?
+Where does she go? | [weə] [dʌz] [ʃiː] [gəʊ]? | Куда она ходит?
+Where does she study? | [weə] [dʌz] [ʃiː] [ˈstʌdi]? | Где она учится?
+Where do you work? | [weə] [duː] [juː] [wɜːk]? | Где ты работаешь?
+Where does he work? | [weə] [dʌz] [hiː] [wɜːk]? | Где он работает?
 How regularly do you learn English? | [haʊ] [ˈrɛgjʊləli] [duː] [juː] [lɜːn] [ˈɪŋglɪʃ]? | Как регулярно ты занимаешься английским?
 How often do you go there? | [haʊ] [ˈɒf(ə)n] [duː] [juː] [gəʊ] [ðeə]? | Как часто ты ходишь туда?
 How often do you go to the gym? | [haʊ] [ˈɒf(ə)n] [duː] [juː] [gəʊ] [tuː] [ðə] [ʤɪm]? | Как часто ты ходишь в спортзал?
