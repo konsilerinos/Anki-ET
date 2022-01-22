@@ -33,6 +33,7 @@ How does it help you? | [haʊ] [dʌz] [ɪt] [hɛlp] [juː]? | Как это по
 How does she test their knowledge? | [haʊ] [dʌz] [ʃiː] [tɛst] [ðeə] [ˈnɒlɪʤ]? | Как она тестирует их знания?
 What does he need to change? | [wɒt] [dʌz] [hiː] [niːd] [tuː] [ʧeɪnʤ]? | Что ему нужно изменить?
 What does she try to do? | [wɒt] [dʌz] [ʃiː] [traɪ] [tuː] [duː]? | Что она пытается делать?
+What does he want to add? | [wɒt] [dʌz] [hiː] [wɒnt] [tuː] [æd]? | Что он хочет добавить?
 What does she tell him? | [wɒt] [dʌz] [ʃiː] [tɛl] [hɪm]? | Что она говорит ему?
 What does she say? | [wɒt] [dʌz] [ʃiː] [seɪ]? | Что она говорит?
 Why does it happen again and again? | [waɪ] [dʌz] [ɪt] [ˈhæpən] [əˈgɛn] [ænd] [əˈgɛn]? | Почему это происходит снова и снова?
@@ -55,11 +56,13 @@ What music do you prefer? | [wɒt] [ˈmjuːzɪk] [duː] [juː] [priˈfɜː]? | �
 What English books do you read? | [wɒt] [ˈɪŋglɪʃ] [bʊks] [duː] [juː] [riːd]? | Какие английские книги ты читаешь?
 What books do you read? | [wɒt] [bʊks] [duː] [juː] [riːd]? | Какие книги ты читаешь?
 Who do you support? | [huː] [duː] [juː] [səˈpɔːt]? | Кого ты поддерживаешь?
+Who supports you? | [huː] [səˈpɔːts] [juː]? | Кто поддерживает тебя?
 Who knows it? | [huː] [nəʊz] [ɪt]? | Кто знает это?
 Who do you know? | [huː] [duː] [juː] [nəʊ]? | Кого ты знаешь?
 What looks strange? | [wɒt] [lʊks] [streɪnʤ]? | Что кажется странным?
 What really helps you? | [wɒt] [ˈrɪəli] [hɛlps] [juː]? | Что действительно тебе помогает?
 What do they want to tell you? | [wɒt] [duː] [ðeɪ] [wɒnt] [tuː] [tɛl] [juː]? | Что они хотят тебе сказать?
+What helps you? | [wɒt] [hɛlps] [juː]? | Что помогает тебе?
 What seems strange? | [wɒt] [siːmz] [streɪnʤ]? | Что кажется странным?
 What do you want to say? | [wɒt] [duː] [juː] [wɒnt] [tuː] [seɪ]? | Что ты хочешь сказать?
 When do you have a free time? | [wɛn] [duː] [juː] [hæv] [ə] [friː] [taɪm]? | Когда у тебя есть свободное время?
@@ -77,6 +80,7 @@ Why do you agree with him? | [waɪ] [duː] [juː] [əˈgriː] [wɪð] [hɪm]? | 
 Why do you think so? | [waɪ] [duː] [juː] [θɪŋk] [səʊ]? | Почему ты думаешь так?
 Where do they spend time together? | [weə] [duː] [ðeɪ] [spɛnd] [taɪm] [təˈgɛðə]? | Где они проводят время вместе?
 Where do you go? | [weə] [duː] [juː] [gəʊ]? | Куда ты идёшь?
+Where do you work? | [weə] [duː] [juː] [wɜːk]? | Где ты работаешь?
 Where do you live? | [weə] [duː] [juː] [lɪv]? | Где ты живёшь?
 This result depends on you | [ðɪs] [rɪˈzʌlt] [dɪˈpɛndz] [ɒn] [juː] | Этот результат зависит от тебя
 This results doesn't depend on you | [ðɪs] [rɪˈzʌlts] [dʌznt] [dɪˈpɛnd] [ɒn] [juː] | Этот результат не зависит от тебя
@@ -252,6 +256,8 @@ She needs to correct these mistakes | [ʃiː] [niːdz] [tuː] [kəˈrɛkt] [ði�
 I need to solve this problem | [aɪ] [niːd] [tuː] [sɒlv] [ðɪs] [ˈprɒbləm] | Мне нужно решить эту проблему
 I really need English | [aɪ] [ˈrɪəli] [niːd] [ˈɪŋglɪʃ] | Мне действительно нужен английский
 She needs it | [ʃiː] [niːdz] [ɪt] | Ей нужно это
+I need to call them | [aɪ] [niːd] [tuː] [kɔːl] [ðɛm] | Мне нужно позвонить им
+I need to call him | [aɪ] [niːd] [tuː] [kɔːl] [hɪm] | Мне нужно позвонить ему
 I need to see her | [aɪ] [niːd] [tuː] [siː] [hɜː] | Мне нужно увидеть её
 I need to correct this mistake | [aɪ] [niːd] [tuː] [kəˈrɛkt] [ðɪs] [mɪsˈteɪk] | Мне нужно исправить эту ошибку
 I need to learn English | [aɪ] [niːd] [tuː] [lɜːn] [ˈɪŋglɪʃ] | Мне нужно выучить английский
@@ -373,6 +379,7 @@ We speak English | [wiː] [spiːk] [ˈɪŋglɪʃ] | Мы говорим по-а�
 We understand you | [wiː] [ˌʌndəˈstænd] [juː] | Мы понимаем тебя
 I remember it very well | [aɪ] [rɪˈmɛmbər] [ɪt] [ˈvɛri] [wɛl] | Я помню это очень хорошо
 I remember it | [aɪ] [rɪˈmɛmbər] [ɪt] | Я помню это
+I want it | [aɪ] [wɒnt] [ɪt] | Я хочу это
 I see it | [aɪ] [siː] [ɪt] | Я вижу это
 I think so | [aɪ] [θɪŋk] [səʊ] | Я думаю так
 I have a car | [aɪ] [hæv] [ə] [kɑː] | У меня есть машина
@@ -439,6 +446,7 @@ She has a car | [ʃiː] [hæz] [ə] [kɑː] | У неё есть машина
 He has a house | [hiː] [hæz] [ə] [haʊs] | У него есть дом
 She does it very well | [ʃiː] [dʌz] [ɪt] [ˈvɛri] [wɛl] | Она делает это очень хорошо
 She often goes to the park | [ʃiː] [ˈɒf(ə)n] [gəʊz] [tuː] [ðə] [pɑːk] | Она часто ходит в парк
+He often goes to the cinema | [hiː] [ˈɒf(ə)n] [gəʊz] [tuː] [ðə] [ˈsɪnəmə] | Он часто ходит в кино
 She goes to school | [ʃiː] [gəʊz] [tuː] [skuːl] | Она ходит в школу
 He does it every day | [hiː] [dʌz] [ɪt] [ˈɛvri] [deɪ] | Он делает это каждый день
 He goes to work | [hiː] [gəʊz] [tuː] [wɜːk] | Он ходит на работу
@@ -468,6 +476,7 @@ My brother wants it | [maɪ] [ˈbrʌðə] [wɒnts] [ɪt] | Мой брат хо�
 Your lessons really help | [jɔː] [ˈlɛsnz] [ˈrɪəli] [hɛlp] | Твои уроки на самом деле помогают
 These lessons help me | [ðiːz] [ˈlɛsnz] [hɛlp] [miː] | Эти уроки помогают мне
 This lesson helps me | [ðɪs] [ˈlɛsn] [hɛlps] [miː] | Этот урок помогает мне
+These lessons seem very useful | [ðiːz] [ˈlɛsnz] [siːm] [ˈvɛri] [ˈjuːsfʊl] | Эти уроки кажутся очень полезными
 This lesson seems interesting | [ðɪs] [ˈlɛsn] [siːmz] [ˈɪntrɪstɪŋ] | Этот урок кажется интересным
 I see its success | [aɪ] [siː] [ɪts] [səkˈsɛs] | Я вижу её (компании) успех
 Her words seem strange | [hɜː] [wɜːdz] [siːm] [streɪnʤ] | Её слова кажутся странными
@@ -485,6 +494,7 @@ I see these mistakes | [aɪ] [siː] [ðiːz] [mɪsˈteɪks] | Я вижу эти
 I understand that person | [aɪ] [ˌʌndəˈstænd] [ðæt] [ˈpɜːsn] | Я понимаю того человека
 I see this mistake | [aɪ] [siː] [ðɪs] [mɪsˈteɪk] | Я вижу эту ошибку
 It looks so interesting | [ɪt] [lʊks] [səʊ] [ˈɪntrɪstɪŋ] | Это выглядит таким интересным
+She sees this mistake | [ʃiː] [siːz] [ðɪs] [mɪsˈteɪk] | Она видит эту ошибку
 He knows this thing | [hiː] [nəʊz] [ðɪs] [θɪŋ] | Он знает эту вещь
 They often go to the cinema | [ðeɪ] [ˈɒf(ə)n] [gəʊ] [tuː] [ðə] [ˈsɪnəmə] | Они часто ходят в кино
 You always say it | [juː] [ˈɔːlweɪz] [seɪ] [ɪt] | Ты всегда говоришь это
