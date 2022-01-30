@@ -1,3 +1,51 @@
+It's easy | [ɪts] [ˈiːzi] | Это легко
+It's very easy | [ɪts] [ˈvɛri] [ˈiːzi] | Это очень легко
+It's good | [ɪts] [gʊd] | Это хорошо
+It's so good | [ɪts] [səʊ] [gʊd] | Это так хорошо
+It's so bad | [ɪts] [səʊ] [bæd] | Это так плохо
+It's so difficult | [ɪts] [səʊ] [ˈdɪfɪkəlt] | Это так сложно
+It's difficult | [ɪts] [ˈdɪfɪkəlt] | Это сложно
+It's so important | [ɪts] [səʊ] [ɪmˈpɔːtənt] | Это так важно
+It's very important | [ɪts] [ˈvɛri] [ɪmˈpɔːtənt] | Это очень важно
+It's important | [ɪts] [ɪmˈpɔːtənt] | Это важно
+She's his wife | [ʃiːz] [hɪz] [waɪf] | Она его жена
+He's her husband | [hiːz] [hɜː] [ˈhʌzbənd] | Он её муж
+She's a student | [ʃiːz] [ə] [ˈstjuːdənt] | Она студентка
+She's my teacher | [ʃiːz] [maɪ] [ˈtiːʧə] | Она моя учительница
+She's my girlfriend | [ʃiːz] [maɪ] [ˈgɜːlˌfrɛnd] | Она моя девушка
+She's a teacher | [ʃiːz] [ə] [ˈtiːʧə] | Она учительница
+He's a businessman | [hiːz] [ə] [ˈbɪznɪsmən] | Он бизнесмен
+He's my boyfriend | [hiːz] [maɪ] [ˈbɔɪˌfrɛnd] | Он мой парень
+He's my friend | [hiːz] [maɪ] [frɛnd] | Он мой друг
+He's a manager | [hiːz] [ə] [ˈmænɪʤə] | Он менеджер
+He's a doctor | [hiːz] [ə] [ˈdɒktə] | Он врач
+They're lazy | [ðeə] [ˈleɪzi] | Они ленивые
+They're poor | [ðeə] [pʊə] | Они бедные
+They're rich | [ðeə] [rɪʧ] | Они богатые
+They're our friends | [ðeər] [ˈaʊə] [frɛndz] | Они наши друзья
+You're a good person | [jʊər] [ə] [gʊd] [ˈpɜːsn] | Ты хороший человек
+You're very kind | [jʊə] [ˈvɛri] [kaɪnd] | Ты очень добрый
+We're so happy | [wɪə] [səʊ] [ˈhæpi] | Мы так счастливы
+We're friends | [wɪə] [frɛndz] | Мы друзья
+We're in the park | [wɪər] [ɪn] [ðə] [pɑːk] | Мы в парке
+I'm sure | [aɪm] [ʃʊə] | Я уверен
+I'm at home | [aɪm] [æt] [həʊm] | Я дома
+I'm at work | [aɪm] [æt] [wɜːk] | Я на работе
+I'm at school | [aɪm] [æt] [skuːl] | Я в школе
+She's here | [ʃiːz] [hɪə] | Она здесь
+It's there | [ɪts] [ðeə] | Это там
+He's at school | [hiːz] [æt] [skuːl] | Он в школе
+They're at work | [ðeər] [æt] [wɜːk] | Они на работе
+You're right | [jʊə] [raɪt] | Ты прав
+I'm happy | [aɪm] [ˈhæpi] | Я счастлив
+It's at home | [ɪts] [æt] [həʊm] | Это дома
+She's at home | [ʃiːz] [æt] [həʊm] | Она дома
+He's at home | [hiːz] [æt] [həʊm] | Он дома
+They're at home | [ðeər] [æt] [həʊm] | Они дома
+You're at home | [jʊər] [æt] [həʊm] | Вы дома
+We're at home | [wɪər] [æt] [həʊm] | Мы дома
+I'm at home | [aɪm] [æt] [həʊm] | Я дома
+It's interesting | [ɪts] [ˈɪntrɪstɪŋ] | Это интересно
 Let's talk about it | [lɛts] [tɔːk] [əˈbaʊt] [ɪt] | Давай поговорим об этом
 How often do you go to the cinema? | [haʊ] [ˈɒf(ə)n] [duː] [juː] [gəʊ] [tuː] [ðə] [ˈsɪnəmə]? | Как часто ты ходишь в кино?
 She often asks me about it | [ʃiː] [ˈɒf(ə)n] [ɑːsks] [miː] [əˈbaʊt] [ɪt] | Она часто спрашивает меня об этом
