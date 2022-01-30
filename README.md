@@ -2,10 +2,6 @@
 
 Anki english tool, формирование текста для импорта в программу Anki формата "Английский текст | Транскрипция | Русский текст"
 
-## Программа
-1. Архив с release-версией программы доступен [**здесь**](https://github.com/konsilerinos/Anki-ET/blob/main/Release.rar)
-2. Установщик программы доступен [**здесь**](https://github.com/konsilerinos/Anki-ET/blob/main/Setup.exe)
-
 ## Как дополнение для курса Александра Бебриса
 1. Файлы импорта (обновляются по мере прохождения konsilerinos-ом [курса](https://www.youtube.com/watch?v=Hp9wUEDasY4&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X)) доступны [**здесь**](https://github.com/konsilerinos/Anki-ET/tree/main/Import-files)
 2. Пример коллекции для Anki лежит [**здесь**](https://github.com/konsilerinos/Anki-ET/blob/main/Import-files/Example.colpkg)
