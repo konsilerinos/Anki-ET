@@ -1,0 +1,51 @@
+I'm fine | [aɪm] [faɪn] | У меня всё хорошо
+It's better | [ɪts] [ˈbɛtə] | Это лучше
+It's worse | [ɪts] [wɜːs] | Это хуже
+He's a young man | [hiːz] [ə] [jʌŋ] [mæn] | Он молодой человек
+She's a very beautiful girl | [ʃiːz] [ə] [ˈvɛri] [ˈbjuːtəfʊl] [gɜːl] | Она очень красивая девушка
+It's on the right | [ɪts] [ɒn] [ðə] [raɪt] | Это справа
+It's on the left | [ɪts] [ɒn] [ðə] [lɛft] | Это слева
+I'm ready | [aɪm] [ˈrɛdi] | Я готов
+It's simple | [ɪts] [ˈsɪmpl] | Это просто
+It's possible | [ɪts] [ˈpɒsəbl] | Это возможно
+It's impossible | [ɪts] [ɪmˈpɒsəbl] | Это невозможно
+It's easy | [ɪts] [ˈiːzi] | Это легко
+It's interesting | [ɪts] [ˈɪntrɪstɪŋ] | Это интересно
+It's obvious | [ɪts] [ˈɒbvɪəs] | Очевидно
+It's a warm day | [ɪts] [ə] [wɔːm] [deɪ] | Это тёплый день
+It's a hot day | [ɪts] [ə] [hɒt] [deɪ] | Это жаркий день
+It's too hot | [ɪts] [tuː] [hɒt] | Слишком жарко
+It's a cold day | [ɪts] [ə] [kəʊld] [deɪ] | Это холодный день
+It's rainy | [ɪts] [ˈreɪni] | Дождливо
+It's sunny | [ɪts] [ˈsʌni] | Солнечно
+It's dark | [ɪts] [dɑːk] | Темно
+It's hot | [ɪts] [hɒt] | Жарко
+It's warm | [ɪts] [wɔːm] | Тепло
+It's cold | [ɪts] [kəʊld] | Холодно
+It's too expensive | [ɪts] [tuː] [ɪksˈpɛnsɪv] | Это слишком дорого
+It's cheap | [ɪts] [ʧiːp] | Это дёшево
+It's the best example | [ɪts] [ðə] [bɛst] [ɪgˈzɑːmpl] | Это лучший пример
+You're the best teacher in the world | [jʊə] [ðə] [bɛst] [ˈtiːʧər] [ɪn] [ðə] [wɜːld] | Ты лучший учитель в мире
+It's the best channel | [ɪts] [ðə] [bɛst] [ˈʧænl] | Это лучший канал
+It's a very small mistake | [ɪts] [ə] [ˈvɛri] [smɔːl] [mɪsˈteɪk] | Это очень маленькая ошибка
+It's a brilliant result | [ɪts] [ə] [ˈbrɪljənt] [rɪˈzʌlt] | Это блестящий результат
+It's a small mistake | [ɪts] [ə] [smɔːl] [mɪsˈteɪk] | Это маленькая ошибка
+It's a big mistake | [ɪts] [ə] [bɪg] [mɪsˈteɪk] | Это большая ошибка
+Informative | [ɪnˈfɔːmətɪv] | Познавательный, информативный
+It's an informative lesson | [ɪts] [ən] [ɪnˈfɔːmətɪv] [ˈlɛsn] | Это информативный урок
+It's an important detail | [ɪts] [ən] [ɪmˈpɔːtənt] [ˈdiːteɪl] | Это важная делать
+It's a very important detail | [ɪts] [ə] [ˈvɛri] [ɪmˈpɔːtənt] [ˈdiːteɪl] | Это очень важная деталь
+It's a low level | [ɪts] [ə] [ləʊ] [ˈlɛvl] | Это низкий уровень
+It's a very low level | [ɪts] [ə] [ˈvɛri] [ləʊ] [ˈlɛvl] | Это очень низкий уровень
+It's a very high level | [ɪts] [ə] [ˈvɛri] [haɪ] [ˈlɛvl] | Это очень высокий уровень
+It's a high level | [ɪts] [ə] [haɪ] [ˈlɛvl] | Это высокий уровень
+It's a very big success | [ɪts] [ə] [ˈvɛri] [bɪg] [səkˈsɛs] | Это очень большой успех
+It's a big success | [ɪts] [ə] [bɪg] [səkˈsɛs] | Это большой успех
+It's a very easy lesson | [ɪts] [ə] [ˈvɛri] [ˈiːzi] [ˈlɛsn] | Это очень лёгкий урок
+It's an easy lesson | [ɪts] [ən] [ˈiːzi] [ˈlɛsn] | Это лёгкий урок
+It's a very useful lesson | [ɪts] [ə] [ˈvɛri] [ˈjuːsfʊl] [ˈlɛsn] | Это очень полезный урок
+It's a useful lesson | [ɪts] [ə] [ˈjuːsfʊl] [ˈlɛsn] | Это полезный урок
+It's an interesting idea | [ɪts] [ən] [ˈɪntrɪstɪŋ] [aɪˈdɪə] | Это интересная идея
+It's a very interesting idea | [ɪts] [ə] [ˈvɛri] [ˈɪntrɪstɪŋ] [aɪˈdɪə] | Это очень интересная идея
+It's a good result | [ɪts] [ə] [gʊd] [rɪˈzʌlt] | Это хороший результат
+It's a very good result | [ɪts] [ə] [ˈvɛri] [gʊd] [rɪˈzʌlt] | Это очень хороший результат
