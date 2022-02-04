@@ -1,3 +1,58 @@
+His wife is 32 (thirty-two) | [hɪz] [waɪf] [ɪz] 32 ([ˈθɜːti]-[tuː]) | Его жене 32
+I'm 21 (years old) (twenty-one) | [aɪm] 21 ([jɪəz] [əʊld]) ([ˈtwɛnti]-[wʌn]) | Мне 21
+He's 21 (twenty-one) | [hiːz] 21 ([ˈtwɛnti]-[wʌn]) | Ему 21
+He's 32 (thirty-two) | [hiːz] 32 ([ˈθɜːti]-[tuː]) | Ему 32
+I'm 32 (years old) (thirty-two) | [aɪm] 32 ([jɪəz] [əʊld]) ([ˈθɜːti]-[tuː]) | Мне 32
+My brother is 21 (twenty-one) | [maɪ] [ˈbrʌðər] [ɪz] 21 ([ˈtwɛnti]-[wʌn]) | Моему брату 21
+I'm Russian | [aɪm] [ˈrʌʃ(ə)n] | Я русский
+He's American | [hiːz] [əˈmɛrɪkən] | Он американец
+I'm twenty | [aɪm] [ˈtwɛnti] | Мне двадцать
+She's thirty | [ʃiːz] [ˈθɜːti] | Ей тридцать
+My mother is a doctor. She's forty | [maɪ] [ˈmʌðər] [ɪz] [ə] [ˈdɒktə]. [ʃiːz] [ˈfɔːti] | Моя мама — врач. Ей сорок
+This place is very beautiful | [ðɪs] [pleɪs] [ɪz] [ˈvɛri] [ˈbjuːtəfʊl] | Это место очень красивое
+This company is very rich | [ðɪs] [ˈkʌmpəni] [ɪz] [ˈvɛri] [rɪʧ] | Эта компания очень богатая
+Knowledge is power! | [ˈnɒlɪʤ] [ɪz] [ˈpaʊə]! | Знания — сила!
+Love is a wonderful feeling | [lʌv] [ɪz] [ə] [ˈwʌndəfʊl] [ˈfiːlɪŋ] | Любовь — прекрасное чувство
+Chinese | [ˌʧaɪˈniːz] | Китайский язык, китайский
+Chinese is very difficult | [ˌʧaɪˈniːz] [ɪz] [ˈvɛri] [ˈdɪfɪkəlt] | Китайский очень сложный
+English is easy | [ˈɪŋglɪʃ] [ɪz] [ˈiːzi] | Английский лёгкий
+Money is important | [ˈmʌni] [ɪz] [ɪmˈpɔːtənt] | Деньги важны
+Time is money! | [taɪm] [ɪz] [ˈmʌni]! | Время — деньги!
+These things are very important | [ðiːz] [θɪŋz] [ɑː] [ˈvɛri] [ɪmˈpɔːtənt] | Эти вещи очень важные
+This thing is very important | [ðɪs] [θɪŋ] [ɪz] [ˈvɛri] [ɪmˈpɔːtənt] | Эта вещь очень важная
+These lessons are really good | [ðiːz] [ˈlɛsnz] [ɑː] [ˈrɪəli] [gʊd] | Эти уроки действительно хорошие
+This information is really useful | [ðɪs] [ˌɪnfəˈmeɪʃən] [ɪz] [ˈrɪəli] [ˈjuːsfʊl] | Эта информация реально полезна
+These problems are small | [ðiːz] [ˈprɒbləmz] [ɑː] [smɔːl] | Эти проблемы маленькие
+This problem is very big | [ðɪs] [ˈprɒbləm] [ɪz] [ˈvɛri] [bɪg] | Эта проблема очень большая
+Those lessons are ineffective | [ðəʊz] [ˈlɛsnz] [ɑːr] [ˌɪnɪˈfɛktɪv] | Те уроки неэффективны (в 1 слово)
+These lessons are so effective | [ðiːz] [ˈlɛsnz] [ɑː] [səʊ] [ɪˈfɛktɪv] | Эти уроки такие эффективные
+Those women are teachers | [ðəʊz] [ˈwɪmɪn] [ɑː] [ˈtiːʧəz] | Те женщины учителя
+That woman is a designer | [ðæt] [ˈwʊmən] [ɪz] [ə] [dɪˈzaɪnə] | Та женщина дизайнер
+This man is a doctor | [ðɪs] [mæn] [ɪz] [ə] [ˈdɒktə] | Этот мужчина врач
+These men are managers | [ðiːz] [mɛn] [ɑː] [ˈmænɪʤəz] | Эти мужчины менеджеры
+The rule is very important | [ðə] [ruːl] [ɪz] [ˈvɛri] [ɪmˈpɔːtənt] | Правило очень важное
+The lesson is interesting | [ðə] [ˈlɛsn] [ɪz] [ˈɪntrɪstɪŋ] | Урок интересный
+The lesson is useful | [ðə] [ˈlɛsn] [ɪz] [ˈjuːsfʊl] | Урок полезный
+The test is easy | [ðə] [tɛst] [ɪz] [ˈiːzi] | Тест лёгкий
+The exam is difficult | [ði] [ɪgˈzæm] [ɪz] [ˈdɪfɪkəlt] | Экзамен сложный
+The boy is very clever | [ðə] [bɔɪ] [ɪz] [ˈvɛri] [ˈklɛvə] | Мальчик очень умный
+This boy is very clever | [ðɪs] [bɔɪ] [ɪz] [ˈvɛri] [ˈklɛvə] | Этот мальчик очень умный
+I have a car. The car is very good | [aɪ] [hæv] [ə] [kɑː]. [ðə] [kɑːr] [ɪz] [ˈvɛri] [gʊd] | У меня есть машина. Машина очень хорошая
+I have a computer. The computer is new | [aɪ] [hæv] [ə] [kəmˈpjuːtə]. [ðə] [kəmˈpjuːtər] [ɪz] [njuː] | У меня есть компьютер. Компьютер новый
+Her boss is very busy at the moment | [hɜː] [bɒs] [ɪz] [ˈvɛri] [ˈbɪzi] [æt] [ðə] [ˈməʊmənt] | Её босс очень занят в настоящий момент
+My boss is very busy now | [maɪ] [bɒs] [ɪz] [ˈvɛri] [ˈbɪzi] [naʊ] | Мой босс сейчас очень занят
+These students are very lazy | [ðiːz] [ˈstjuːdənts] [ɑː] [ˈvɛri] [ˈleɪzi] | Эти студенты очень ленивые
+This student is so hard-working | [ðɪs] [ˈstjuːdənt] [ɪz] [səʊ] [ˈhɑːdˌwɜːkɪŋ] | Этот студент такой трудолюбивый
+All your videos are so interesting | [ɔːl] [jɔː] [ˈvɪdɪəʊz] [ɑː] [səʊ] [ˈɪntrɪstɪŋ] | Все твои видео такие интересные
+All these videos are very useful | [ɔːl] [ðiːz] [ˈvɪdɪəʊz] [ɑː] [ˈvɛri] [ˈjuːsfʊl] | Все эти видео очень полезные
+These videos are very informative | [ðiːz] [ˈvɪdɪəʊz] [ɑː] [ˈvɛri] [ɪnˈfɔːmətɪv] | Эти видео очень информативные
+This video is very informative | [ðɪs] [ˈvɪdɪəʊ] [ɪz] [ˈvɛri] [ɪnˈfɔːmətɪv] | Это видео очень познавательное
+This year is very difficult | [ðɪs] [jɪər] [ɪz] [ˈvɛri] [ˈdɪfɪkəlt] | Этот год очень сложный
+These lessons are very useful | [ðiːz] [ˈlɛsnz] [ɑː] [ˈvɛri] [ˈjuːsfʊl] | Эти уроки очень полезные
+This lesson is very useful | [ðɪs] [ˈlɛsn] [ɪz] [ˈvɛri] [ˈjuːsfʊl] | Этот урок очень полезный
+Their idea is very interesting | [ðeər] [aɪˈdɪə] [ɪz] [ˈvɛri] [ˈɪntrɪstɪŋ] | Их идея очень интересная
+My mother is at work | [maɪ] [ˈmʌðər] [ɪz] [æt] [wɜːk] | Моя мама на работе
+My friend is at home | [maɪ] [frɛnd] [ɪz] [æt] [həʊm] | Мой друг дома
 She's such a wise woman | [ʃiːz] [sʌʧ] [ə] [waɪz] [ˈwʊmən] | Она такая добрая женщина
 It's so effective | [ɪts] [səʊ] [ɪˈfɛktɪv] | Это так эффективно
 He's such a talented boy | [hiːz] [sʌʧ] [ə] [ˈtæləntɪd] [bɔɪ] | Он такой талантливый мальчик
