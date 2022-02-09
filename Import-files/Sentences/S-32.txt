@@ -1,0 +1,54 @@
+Is the news important? | [ɪz] [ðə] [njuːz] [ɪmˈpɔːtənt]? | Новости важные?
+Is this news interesting? | [ɪz] [ðɪs] [njuːz] [ˈɪntrɪstɪŋ]? | Эти новости интересные?
+Is this news important? | [ɪz] [ðɪs] [njuːz] [ɪmˈpɔːtənt]? | Эти новости важные?
+Is this money enough? | [ɪz] [ðɪs] [ˈmʌni] [ɪˈnʌf]? | Этих денег достаточно?
+Is the news interesting? | [ɪz] [ðə] [njuːz] [ˈɪntrɪstɪŋ]? | Новости интересные?
+Is this level enough? | [ɪz] [ðɪs] [ˈlɛvl] [ɪˈnʌf]? | Этого уровня достаточно?
+is this information enough? | [ɪz] [ðɪs] [ˌɪnfəˈmeɪʃən] [ɪˈnʌf]? | Этой информации достаточно?
+Is knowledge power? | [ɪz] [ˈnɒlɪʤ] [ˈpaʊə]? | Знания сила?
+Is time important? | [ɪz] [taɪm] [ɪmˈpɔːtənt]? | Деньги важны?
+Is time is money? | [ɪz] [taɪm] [ɪz] [ˈmʌni]? | Время деньги?
+Is the airport near? | [ɪz] [ði] [ˈeəpɔːt] [nɪə]? | Аэропорт близко?
+Is the food good? | [ɪz] [ðə] [fuːd] [gʊd]? | Еда хорошая?
+Is the game interesting? | [ɪz] [ðə] [geɪm] [ˈɪntrɪstɪŋ]? | Игра интересная?
+Is the article about politics? | [ɪz] [ði] [ˈɑːtɪkl] [əˈbaʊt] [ˈpɒlɪtɪks]? | Статья о политике?
+Are the articles is Russian? | [ɑː] [ði] [ˈɑːtɪklz] [ɪz] [ˈrʌʃ(ə)n]? | Статьи на русском?
+Is the article in English? | [ɪz] [ði] [ˈɑːtɪkl] [ɪn] [ˈɪŋglɪʃ]? | Статья на английском?
+Is his decision right? | [ɪz] [hɪz] [dɪˈsɪʒən] [raɪt]? | Его решение правильное?
+Is the teacher right? | [ɪz] [ðə] [ˈtiːʧə] [raɪt]? | Учитель прав?
+Is the university famous? | [ɪz] [ðə] [ˌjuːnɪˈvɜːsɪti] [ˈfeɪməs]? | Университет знаменитый?
+Are the lessons really useful? | [ɑː] [ðə] [ˈlɛsnz] [ˈrɪəli] [ˈjuːsfʊl]? | Уроки действительно полезные?
+Is the channel very popular? | [ɪz] [ðə] [ˈʧænl] [ˈvɛri] [ˈpɒpjʊlə]? | Канал очень популярный?
+Is the lesson useful? | [ɪz] [ðə] [ˈlɛsn] [ˈjuːsfʊl]? | Урок полезный?
+Is the book boring? | [ɪz] [ðə] [bʊk] [ˈbɔːrɪŋ]? | Книга скучная?
+Is the book so interesting? | [ɪz] [ðə] [bʊk] [səʊ] [ˈɪntrɪstɪŋ]? | Книга такая интересная?
+Are the boys at school? | [ɑː] [ðə] [bɔɪz] [æt] [skuːl]? | Мальчики дома?
+Is the boy at home? | [ɪz] [ðə] [bɔɪ] [æt] [həʊm]? | Мальчик дома?
+Are these texts too difficult? | [ɑː] [ðiːz] [tɛksts] [tuː] [ˈdɪfɪkəlt]? | Эти тексты слишком сложные?
+Is this text simple? | [ɪz] [ðɪs] [tɛkst] [ˈsɪmpl]? | Этот текст простой?
+Are these words new for you? | [ɑː] [ðiːz] [wɜːdz] [njuː] [fɔː] [juː]? | Эти слова новые для тебя?
+Is this word new for you? | [ɪz] [ðɪs] [wɜːd] [njuː] [fɔː] [juː]? | Это слово новое для тебя?
+Are those exercises useless? | [ɑː] [ðəʊz] [ˈɛksəsaɪzɪz] [ˈjuːslɪs]? | Те упражнения бесполезные?
+Is this test too difficult? | [ɪz] [ðɪs] [tɛst] [tuː] [ˈdɪfɪkəlt]? | Этот тест слишком сложный?
+Are these exercises so useful? | [ɑː] [ðiːz] [ˈɛksəsaɪzɪz] [səʊ] [ˈjuːsfʊl]? | Эти упражнения такие полезные?
+Is this test too easy? | [ɪz] [ðɪs] [tɛst] [tuː] [ˈiːzi]? | Этот тест слишком лёгкий?
+Is this language difficult? | [ɪz] [ðɪs] [ˈlæŋgwɪʤ] [ˈdɪfɪkəlt]? | Этот язык сложный?
+Is this practice rally important? | [ɪz] [ðɪs] [ˈpræktɪs] [ˈræli] [ɪmˈpɔːtənt]? | Эта практика действительно важная?
+Are your friends online? | [ɑː] [jɔː] [frɛndz] [ˈɒnˌlaɪn]? | Твои друзья онлайн?
+Is your father at work? | [ɪz] [jɔː] [ˈfɑːðər] [æt] [wɜːk]? | Твой папа на работе?
+Is your mother at school? | [ɪz] [jɔː] [ˈmʌðər] [æt] [skuːl]? | Твоя мама в школе?
+is this business profitable? | [ɪz] [ðɪs] [ˈbɪznɪs] [ˈprɒfɪtəbl]? | Этот бизнес прибыльный?
+Is your girlfriend nineteen? | [ɪz] [jɔː] [ˈgɜːlˌfrɛnd] [ˈnaɪnˈtiːn]? | Твоей девушка 19?
+Is your boyfriend twenty-two? | [ɪz] [jɔː] [ˈbɔɪˌfrɛnd] [ˈtwɛnti]-[tuː]? | Твоему парню 22?
+Are these thing so important? | [ɑː] [ðiːz] [θɪŋ] [səʊ] [ɪmˈpɔːtənt]? | Эти вещи такие важные?
+Is this thing so important? | [ɪz] [ðɪs] [θɪŋ] [səʊ] [ɪmˈpɔːtənt]? | Эта вещь такая важная?
+Are his parents abroad? | [ɑː] [hɪz] [ˈpeərənts] [əˈbrɔːd]? | Его родители заграницей?
+Is his mother a doctor? | [ɪz] [hɪz] [ˈmʌðər] [ə] [ˈdɒktə]? | Его мама врач?
+Is his father a businessman? | [ɪz] [hɪz] [ˈfɑːðər] [ə] [ˈbɪznɪsmən]? | Его отец бизнесмен?
+Is this story so funny? | [ɪz] [ðɪs] [ˈstɔːri] [səʊ] [ˈfʌni]? | Эта история такая смешная?
+Is this knowledge enough? | [ɪz] [ðɪs] [ˈnɒlɪʤ] [ɪˈnʌf]? | Этих знаний достаточно?
+Is his computer new? | [ɪz] [hɪz] [kəmˈpjuːtə] [njuː]? | Его компьютер новый?
+Is it a powerful computer? | [ɪz] [ɪt] [ə] [ˈpaʊəfʊl] [kəmˈpjuːtə]? | Этот компьютер мощный?
+Is this information really useful? | [ɪz] [ðɪs] [ˌɪnfəˈmeɪʃən] [ˈrɪəli] [ˈjuːsfʊl]? | Эта информация реально полезная?
+Is this project so interesting? | [ɪz] [ðɪs] [ˈprɒʤɛkt] [səʊ] [ˈɪntrɪstɪŋ]? | Этот проект такой интересный?
+Is his video so funny? | [ɪz] [hɪz] [ˈvɪdɪəʊ] [səʊ] [ˈfʌni]? | Его видео такое забавное?
