@@ -1,3 +1,56 @@
+How much is it? / How much it cost? | [haʊ] [mʌʧ] [ɪz] [ɪt]? / [haʊ] [mʌʧ] [ɪt] [kɒst]? | Сколько это стоит?
+What time is it (now) / What's the time? | [wɒt] [taɪm] [ɪz] [ɪt] ([naʊ]) / [wɒts] [ðə] [taɪm]? | Сколько времени?
+How difficult is it? | [haʊ] [ˈdɪfɪkəlt] [ɪz] [ɪt]? | Насколько это сложно?
+How good is it? | [haʊ] [gʊd] [ɪz] [ɪt]? | Насколько это хорошо?
+How old are you? | [haʊ] [əʊld] [ɑː] [juː]? | Насколько ты стар? (Сколько тебе лет?)
+How old is he? | [haʊ] [əʊld] [ɪz] [hiː]? | Насколько он стар? (Сколько ему лет?)
+How old is she? | [haʊ] [əʊld] [ɪz] [ʃiː]? | Насколько она стара? (Сколько ей лет?)
+How far is it? | [haʊ] [fɑːr] [ɪz] [ɪt]? | Насколько это далеко?
+How expensive is it? | [haʊ] [ɪksˈpɛnsɪv] [ɪz] [ɪt]? | Насколько это дорого?
+How interesting is it? | [haʊ] [ˈɪntrɪstɪŋ] [ɪz] [ɪt]? | Насколько это интересно?
+How useful is it? | [haʊ] [ˈjuːsfʊl] [ɪz] [ɪt]? | Насколько это полезно?
+Who's here? | [huːz] [hɪə]? | Кто здесь?
+Who's in the room? | [huːz] [ɪn] [ðə] [ruːm]? | Кто в комнате?
+Who's at home? | [huːz] [æt] [həʊm]? | Кто дома?
+Who's at work? | [huːz] [æt] [wɜːk]? | Кто на работе?
+Who's in the park? | [huːz] [ɪn] [ðə] [pɑːk]? | Кто в парке?
+Who's right? | [huːz] [raɪt]? | Кто прав?
+Who's wrong? | [huːz] [rɒŋ]? | Кто неправ?
+Who's in the first place? | [huːz] [ɪn] [ðə] [fɜːst] [pleɪs]? | Кто на первом месте?
+Who's in the second place? | [huːz] [ɪn] [ðə] [ˈsɛkənd] [pleɪs]? | Кто на втором месте?
+Who's she? | [huːz] [ʃiː]? | Кто она?
+Who's he? | [huːz] [hiː]? | Кто он?
+Who is there? | [huː] [ɪz] [ðeə]? | Кто там?
+Where is he at work? | [weər] [ɪz] [hiː] [æt] [wɜːk]? | Когда он на работе?
+When is she at home? | [wɛn] [ɪz] [ʃiː] [æt] [həʊm]? | Когда она дома?
+When are you free? | [wɛn] [ɑː] [juː] [friː]? | Когда ты свободен?
+When are you busy? | [wɛn] [ɑː] [juː] [ˈbɪzi]? | Когда ты занят?
+How is he? | [haʊ] [ɪz] [hiː]? | Как он?
+How is she? | [haʊ] [ɪz] [ʃiː]? | Как она?
+How is it? | [haʊ] [ɪz] [ɪt]? | Как это?
+How are you? | [haʊ] [ɑː] [juː]? | Как ты?
+Why are you here? | [waɪ] [ɑː] [juː] [hɪə]? | Почему ты здесь?
+Why is he at work now? | [waɪ] [ɪz] [hiː] [æt] [wɜːk] [naʊ]? | Почему он сейчас на работе?
+Why is he angry? | [waɪ] [ɪz] [hiː] [ˈæŋgri]? | Почему он рассержен?
+Why are you against it? | [waɪ] [ɑː] [juː] [əˈgɛnst] [ɪt]? | Почему ты против этого?
+Why are you so happy? | [waɪ] [ɑː] [juː] [səʊ] [ˈhæpi]? | Почему ты так счастлив?
+What's strange? | [wɒts] [streɪnʤ]? | Что странно?
+What's important? | [wɒts] [ɪmˈpɔːtənt]? | Что важно?
+What's really important? | [wɒts] [ˈrɪəli] [ɪmˈpɔːtənt]? | Что действительно важно?
+What's really useful? | [wɒts] [ˈrɪəli] [ˈjuːsfʊl]? | Что действительно полезно?
+What's normal? | [wɒts] [ˈnɔːməl]? | Что нормально?
+What's next? | [wɒts] [nɛkst]? | Что дальше?
+What's interesting? | [wɒts] [ˈɪntrɪstɪŋ]? | Что интересно?
+What's in your pocket? | [wɒts] [ɪn] [jɔː] [ˈpɒkɪt]? | Что в твоём кармане?
+What's in your bag? | [wɒts] [ɪn] [jɔː] [bæg]? | Что в твоей сумке?
+What's in this box? | [wɒts] [ɪn] [ðɪs] [bɒks]? | Что в этой коробке?
+Where is he? | [weər] [ɪz] [hiː]? | Где он?
+What is it? | [wɒt] [ɪz] [ɪt]? | Что это?
+What's there? | [wɒts] [ðeə]? | Что там?
+What's here? | [wɒts] [hɪə]? | Что здесь?
+Where is she? | [weər] [ɪz] [ʃiː]? | Где она?
+Where are you? | [weər] [ɑː] [juː]? | Где ты?
+Where is it? | [weər] [ɪz] [ɪt]? | Где это?
 Is the news important? | [ɪz] [ðə] [njuːz] [ɪmˈpɔːtənt]? | Новости важные?
 Is this news interesting? | [ɪz] [ðɪs] [njuːz] [ˈɪntrɪstɪŋ]? | Эти новости интересные?
 Is this news important? | [ɪz] [ðɪs] [njuːz] [ɪmˈpɔːtənt]? | Эти новости важные?
