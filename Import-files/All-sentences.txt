@@ -1,3 +1,61 @@
+How much is this jeans? | [haʊ] [mʌʧ] [ɪz] [ðɪs] [ʤiːnz]? | Сколько за эти джинсы?
+How much is this pair of jeans? | [haʊ] [mʌʧ] [ɪz] [ðɪs] [peər] [ɒv] [ʤiːnz]? | Сколько стоит эта пара джинс?
+How much is one English lesson? | [haʊ] [mʌʧ] [ɪz] [wʌn] [ˈɪŋglɪʃ] [ˈlɛsn]? | Сколько стоит один урок английского?
+How much is this pair of trousers? | [haʊ] [mʌʧ] [ɪz] [ðɪs] [peər] [ɒv] [ˈtraʊzəz]? | Сколько за эту пару брюк?
+How much are these trousers? | [haʊ] [mʌʧ] [ɑː] [ðiːz] [ˈtraʊzəz]? | Сколько за брюки?
+How mush is this dress? | [haʊ] [mʌʃ] [ɪz] [ðɪs] [drɛs]? | Сколько за это платье?
+How much is the dress? | [haʊ] [mʌʧ] [ɪz] [ðə] [drɛs]? | Сколько стоит платье?
+How much is the computer? | [haʊ] [mʌʧ] [ɪz] [ðə] [kəmˈpjuːtə]? | Сколько стоит компьютер?
+How is the lesson useful? | [haʊ] [ɪz] [ðə] [ˈlɛsn] [ˈjuːsfʊl]? | Насколько урок полезный?
+How difficult is the test? | [haʊ] [ˈdɪfɪkəlt] [ɪz] [ðə] [tɛst]? | Насколько тест сложный?
+How difficult is this exercise? | [haʊ] [ˈdɪfɪkəlt] [ɪz] [ðɪs] [ˈɛksəsaɪz]? | Насколько это упражнение сложное?
+How difficult are these exercises? | [haʊ] [ˈdɪfɪkəlt] [ɑː] [ðiːz] [ˈɛksəsaɪzɪz]? | Насколько сложные эти упражнения?
+How is the lesson good? | [haʊ] [ɪz] [ðə] [ˈlɛsn] [gʊd]? | Насколько хорош урок?
+How is this magazine interesting? | [haʊ] [ɪz] [ðɪs] [ˌmægəˈziːn] [ˈɪntrɪstɪŋ]? | Насколько интересный этот журнал?
+How is this lesson good? | [haʊ] [ɪz] [ðɪs] [ˈlɛsn] [gʊd]? | Насколько хорош этот урок?
+What's your husband's job? | [wɒts] [jɔː] [ˈhʌzbəndz] [ʤɒb]? | Какая работа у твоего мужа?
+I'm an English teacher | [aɪm] [ən] [ˈɪŋglɪʃ] [ˈtiːʧə] | Я учитель английского
+What's his job? | [wɒts] [hɪz] [ʤɒb]? | Кем он работает?
+What's her job? | [wɒts] [hɜː] [ʤɒb]? | Кем она работает?
+What's your mother's job? | [wɒts] [jɔː] [ˈmʌðəz] [ʤɒb]? | Кем работает твоя мама?
+What's your father's job? | [wɒts] [jɔː] [ˈfɑːðəz] [ʤɒb]? | Кем работает твой папа?
+What's your wife's job? | [wɒts] [jɔː] [waɪfs] [ʤɒb]? | Кем работает твоя жена?
+I'm a manager | [aɪm] [ə] [ˈmænɪʤə] | Я менеджер
+What's your job? | [wɒts] [jɔː] [ʤɒb]? | Какая твоя работа?
+How old is your brother? | [haʊ] [əʊld] [ɪz] [jɔː] [ˈbrʌðə]? | Сколько лет твоему брату?
+How old is your sister? | [haʊ] [əʊld] [ɪz] [jɔː] [ˈsɪstə]? | Сколько лет твоей сестре?
+How old is your father? | [haʊ] [əʊld] [ɪz] [jɔː] [ˈfɑːðə]? | Сколько лет твоему папе?
+How old is your mother? | [haʊ] [əʊld] [ɪz] [jɔː] [ˈmʌðə]? | Сколько лет твоей маме?
+Why is that lesson so ineffective? | [waɪ] [ɪz] [ðæt] [ˈlɛsn] [səʊ] [ˌɪnɪˈfɛktɪv]? | Почему тот урок такое неэффективный?
+Why are those lessons so ineffective? | [waɪ] [ɑː] [ðəʊz] [ˈlɛsnz] [səʊ] [ˌɪnɪˈfɛktɪv]? | Почему те уроки такие неэффективные?
+Why is this channel so popular? | [waɪ] [ɪz] [ðɪs] [ˈʧænl] [səʊ] [ˈpɒpjʊlə]? | Почему этот канал такой популярный?
+Why is this rule so important? | [waɪ] [ɪz] [ðɪs] [ruːl] [səʊ] [ɪmˈpɔːtənt]? | Почему это правило такое важное?
+Why are these rules so important? | [waɪ] [ɑː] [ðiːz] [ruːlz] [səʊ] [ɪmˈpɔːtənt]? | Почему эти правила такие важные?
+Why is this video so interesting? | [waɪ] [ɪz] [ðɪs] [ˈvɪdɪəʊ] [səʊ] [ˈɪntrɪstɪŋ]? | Почему это видео такое интересное?
+Who's that woman? | [huːz] [ðæt] [ˈwʊmən]? | Кто та женщина?
+Who's that man? | [huːz] [ðæt] [mæn]? | Кто тот мужчина?
+Who are these people? | [huː] [ɑː] [ðiːz] [ˈpiːpl]? | Кто эти люди?
+Who are those people? | [huː] [ɑː] [ðəʊz] [ˈpiːpl]? | Кто те люди?
+Where is your wife? | [weər] [ɪz] [jɔː] [waɪf]? | Где твоя жена?
+Where is your room? | [weər] [ɪz] [jɔː] [ruːm]? | Где твоя комната?
+Where is your husband? | [weər] [ɪz] [jɔː] [ˈhʌzbənd]? | Где твой муж?
+Where is the nearest supermarket? | [weər] [ɪz] [ðə] [ˈnɪərɪst] [ˈsjuːpəˌmɑːkɪt]? | Где ближайший супермаркет?
+Where is this place? | [weər] [ɪz] [ðɪs] [pleɪs]? | Где это место?
+How is this test? | [haʊ] [ɪz] [ðɪs] [tɛst]? | Как тебе этот тест?
+How is this exercise? | [haʊ] [ɪz] [ðɪs] [ˈɛksəsaɪz]? | Как тебе это упражнение?
+How are these exercises? | [haʊ] [ɑː] [ðiːz] [ˈɛksəsaɪzɪz]? | Как тебе эти упражнения?
+How is this playlist? | [haʊ] [ɪz] [ðɪs] [ˈpleɪˌlɪst]? | Как тебе этот плейлист?
+How is the channel? | [haʊ] [ɪz] [ðə] [ˈʧænl]? | Как тебе канал?
+How is the party? | [haʊ] [ɪz] [ðə] [ˈpɑːti]? | Как тебе вечеринка?
+How is the movie? | [haʊ] [ɪz] [ðə] [ˈmuːvi]? | Как тебе фильм?
+What's your best friend's name? | [wɒts] [jɔː] [bɛst] [frɛndz] [neɪm]? | Как зовут твоего лучшего друга?
+What's your boyfriend's name? | [wɒts] [jɔː] [ˈbɔɪˌfrɛndz] [neɪm]? | Как зовут твоего парня?
+What's your friend's name? | [wɒts] [jɔː] [frɛndz] [neɪm]? | Как зовут твоего друга?
+What's her name? | [wɒts] [hɜː] [neɪm]? | Как её зовут?
+What's his name? | [wɒts] [hɪz] [neɪm]? | Как его зовут?
+What's your girlfriend's name? | [wɒts] [jɔː] [ˈgɜːlˌfrɛndz] [neɪm]? | Как зовут твою девушку?
+What's your name? | [wɒts] [jɔː] [neɪm]? | Как тебя зовут? (Какое твоё имя?)
+My name's Alex | [maɪ] [neɪmz] [ˈæləks] | Моё имя Алекс
 How much is it? / How much it cost? | [haʊ] [mʌʧ] [ɪz] [ɪt]? / [haʊ] [mʌʧ] [ɪt] [kɒst]? | Сколько это стоит?
 What time is it (now) / What's the time? | [wɒt] [taɪm] [ɪz] [ɪt] ([naʊ]) / [wɒts] [ðə] [taɪm]? | Сколько времени?
 How difficult is it? | [haʊ] [ˈdɪfɪkəlt] [ɪz] [ɪt]? | Насколько это сложно?
